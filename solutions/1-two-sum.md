@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Solutions](#solutions)
+  - [Brute Force](#brute-force)
+  - [Sort and Two Pointers](#sort-and-two-pointers)
+  - [Two-pass Hash Table](#two-pass-hash-table)
+  - [One-pass Hash Table](#one-pass-hash-table)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 LeetCode: [Two Sum](https://leetcode.com/problems/two-sum)
 
 # Solutions
