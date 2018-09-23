@@ -79,7 +79,7 @@ class Solution:
 
         for i, n in enumerate(nums):
             if (target - n) in mem and mem[target-n] != i:
-                return (i, mem[target-n])
+                return [i, mem[target-n]]
 
         return None
 ```
@@ -103,7 +103,7 @@ class Solution:
         mem = {}
         for i, n in enumerate(nums):
             if (target - n) in mem and mem[target-n] != i:
-                return (i, mem[target-n])
+                return [i, mem[target-n]]
             mem[n] = i
 
         return None
