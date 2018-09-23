@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Topic](#topic)
+  - [Linked List](#linked-list)
   - [Binary Search](#binary-search)
   - [Hash Table](#hash-table)
   - [Depth-first Search](#depth-first-search)
@@ -19,6 +20,12 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Topic
+
+## Linked List
+
+| #    | Title                                    | Difficulty |
+| ---- | ---------------------------------------- | ---------- |
+| 148  | [Sort List](solutions/148-sort-list.md)  | Medium     |
 
 ## Binary Search
 
@@ -83,6 +90,7 @@
 | ---- | ---------------------------------------- | ---------- |
 | 101  | [Symmetric Tree](solutions/101-symmetric-tree.md) | Easy       |
 | 102  | [Binary Tree Level Order Traversal](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
+| 148  | [Sort List](solutions/148-sort-list.md)  | Medium     |
 
 ## 201 - 300
 

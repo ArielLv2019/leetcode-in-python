@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Depth-first Search](#depth-first-search)
-  - [Breadth-first Search](#breadth-first-search)
+- [Breadth-first Search](#breadth-first-search)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -52,7 +52,7 @@ class Solution:
         return list(res)
 ```
 
-## Breadth-first Search
+# Breadth-first Search
 
 ```python
 class Solution(object):
