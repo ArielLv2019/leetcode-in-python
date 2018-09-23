@@ -90,7 +90,7 @@ Trick Points:
 
 # One-pass Hash Table
 
-Following the last solution, two-pass is not needed since the answers can be not ordered.
+Following the last solution, two-pass is not needed since the answers can be unordered.
 
 ```python
 class Solution:
