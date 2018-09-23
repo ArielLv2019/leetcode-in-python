@@ -9,10 +9,12 @@
   - [Breadth-first Search](#breadth-first-search)
   - [Tree](#tree)
   - [Two Pointers](#two-pointers)
+  - [Math](#math)
 - [Sequence](#sequence)
   - [1 - 100](#1---100)
   - [101 - 200](#101---200)
   - [201 - 300](#201---300)
+  - [301 - 400](#301---400)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -57,6 +59,13 @@
 | ---- | --------------------------------- | ---------- |
 | 1    | [Two Sum](solutions/1-two-sum.md) | Easy       |
 
+## Math
+
+| #    | Title                                    | Difficulty |
+| ---- | ---------------------------------------- | ---------- |
+| 343  | [Integer Break](solutions/343-integer-break.md) | Medium     |
+
+
 # Sequence
 
 ## 1 - 100
@@ -78,3 +87,9 @@
 | #    | Title                                    | Difficulty |
 | ---- | ---------------------------------------- | ---------- |
 | 240  | [ Search a 2D Matrix II](solutions/240-search-a-2d-matrix-ii.md) | Medium     |
+
+## 301 - 400
+
+| #    | Title                                    | Difficulty |
+| ---- | ---------------------------------------- | ---------- |
+| 343  | [Integer Break](solutions/343-integer-break.md) | Medium     |
