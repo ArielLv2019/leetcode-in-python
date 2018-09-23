@@ -39,12 +39,14 @@
 | #    | Title                                    | Difficulty |
 | ---- | ---------------------------------------- | ---------- |
 | 101  | [Symmetric Tree](solutions/101-symmetric-tree.md) | Easy       |
+| 301  | [Remove Invalid Parentheses](solutions/301-remove-invalid-parentheses.md) | Hard       |
 
 ## Breadth-first Search
 
 | #    | Title                                    | Difficulty |
 | ---- | ---------------------------------------- | ---------- |
 | 102  | [Binary Tree Level Order Traversal](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
+| 301  | [Remove Invalid Parentheses](solutions/301-remove-invalid-parentheses.md) | Hard       |
 
 ## Tree
 
@@ -92,4 +94,5 @@
 
 | #    | Title                                    | Difficulty |
 | ---- | ---------------------------------------- | ---------- |
+| 301  | [Remove Invalid Parentheses](solutions/301-remove-invalid-parentheses.md) | Hard       |
 | 343  | [Integer Break](solutions/343-integer-break.md) | Medium     |

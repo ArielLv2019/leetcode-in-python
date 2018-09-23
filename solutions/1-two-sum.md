@@ -90,7 +90,7 @@ Trick Points:
 
 # One-pass Hash Table
 
-Following the last solution, two-pass is not needed since the answers can be unordered.
+Following the last solution, two-pass is not necessary, because when you visit the current item, you just need to query the elements before it.
 
 ```python
 class Solution:
@@ -102,8 +102,8 @@ class Solution:
         """
         mem = {}
         for i, n in enumerate(nums):
-            if (target - n) in mem and mem[target-n] != i:
-                return [i, mem[target-n]]
+            if (target - n) in mem:
+                return [mem[target-n], i]
             mem[n] = i
 
         return None
