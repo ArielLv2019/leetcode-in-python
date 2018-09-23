@@ -23,6 +23,7 @@
 | #    | Title                                    | Difficulty |
 | ---- | ---------------------------------------- | ---------- |
 | 74   | [Search a 2D Matrix](solutions/74-search-a-2d-matrix.md) | Medium     |
+| 240  | [ Search a 2D Matrix II](solutions/240-search-a-2d-matrix-ii.md) | Medium     |
 
 
 ## Hash Table
@@ -60,9 +61,9 @@
 
 ## 1 - 100
 
-| #    | Title                             | Difficulty |
-| ---- | --------------------------------- | ---------- |
-| 1    | [Two Sum](solutions/1-two-sum.md) | Easy       |
+| #    | Title                                    | Difficulty |
+| ---- | ---------------------------------------- | ---------- |
+| 1    | [Two Sum](solutions/1-two-sum.md)        | Easy       |
 | 74   | [Search a 2D Matrix](solutions/74-search-a-2d-matrix.md) | Medium     |
 
 ## 101 - 200
@@ -73,3 +74,7 @@
 | 102  | [Binary Tree Level Order Traversal](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
 
 ## 201 - 300
+
+| #    | Title                                    | Difficulty |
+| ---- | ---------------------------------------- | ---------- |
+| 240  | [ Search a 2D Matrix II](solutions/240-search-a-2d-matrix-ii.md) | Medium     |

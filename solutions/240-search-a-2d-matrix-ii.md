@@ -6,11 +6,10 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 
 # Binary Search
 
-Time Complexity: O(log(m*n))
+Time Complexity: O(m+n)
 
 ```python
 class Solution:
@@ -20,21 +19,18 @@ class Solution:
         :type target: int
         :rtype: bool
         """
-        if not matrix or target is None:
+        if not matrix or not matrix[0]:
             return False
 
         m, n = len(matrix), len(matrix[0])
-
-        l, r = 0, m * n - 1
-        while l <= r:
-            mid = (l + r) // 2
-            row, col = mid // n, mid % n
-            if matrix[row][col] == target:
+        row, col = 0, n - 1
+        while col >= 0 and row < m:
+            if target == matrix[row][col]:
                 return True
-            if matrix[row][col] < target:
-                l = mid + 1
+            if target < matrix[row][col]:
+                col -= 1
             else:
-                r = mid - 1
+                row += 1
                 
         return False
 ```
