@@ -1,4 +1,20 @@
-[TOC]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Topic](#topic)
+  - [Binary Search](#binary-search)
+  - [Hash Table](#hash-table)
+  - [Depth-first Search](#depth-first-search)
+  - [Breadth-first Search](#breadth-first-search)
+  - [Tree](#tree)
+  - [Two Pointers](#two-pointers)
+- [Sequence](#sequence)
+  - [1 - 100](#1---100)
+  - [101 - 200](#101---200)
+  - [201 - 300](#201---300)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Topic
 
