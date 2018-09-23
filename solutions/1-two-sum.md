@@ -1,20 +1,9 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Solutions](#solutions)
-  - [Brute Force](#brute-force)
-  - [Sort and Two Pointers](#sort-and-two-pointers)
-  - [Two-pass Hash Table](#two-pass-hash-table)
-  - [One-pass Hash Table](#one-pass-hash-table)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+[TOC]
 
 LeetCode: [Two Sum](https://leetcode.com/problems/two-sum)
 
-# Solutions
 
-## Brute Force
+# Brute Force
 
 Time Complexity: O(n^2)
 
@@ -32,7 +21,7 @@ class Solution:
                     return [idx, idx+1+newIdx]
 ```
 
-## Sort and Two Pointers
+# Sort and Two Pointers
 
 Time Complexity: O(nlogn)
 Space Complexity: O(n)
@@ -62,7 +51,7 @@ class Solution:
         return []
 ```
 
-## Two-pass Hash Table
+# Two-pass Hash Table
 
 Time Complexity: O(n)
 Space Complexity: O(n)
@@ -90,7 +79,7 @@ Trick Points:
 
 - Consider some edge cases, such [3, 3], 6. The index of answers should be different.
 
-## One-pass Hash Table
+# One-pass Hash Table
 
 Following the last solution, two-pass is not needed since the answers can be not ordered.
 
