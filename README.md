@@ -3,6 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Topic](#topic)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Backtracking](#backtracking)
   - [String](#string)
   - [Stack](#stack)
   - [Linked List](#linked-list)
@@ -23,6 +25,18 @@
 
 # Topic
 
+## Dynamic Programming
+
+| #    | Title                                    | Solution                                 | Difficulty |
+| ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
+
+## Backtracking
+
+| #    | Title                                    | Solution                                 | Difficulty |
+| ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
+
 ## String
 
 | #    | Title                                    | Solution                                 | Difficulty |
@@ -31,6 +45,7 @@
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](solutions/5-longest-palindromic-substring.md) | Medium     |
 | 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Python](6-zigzag-conversion.md)         | Medium     |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/8-string-to-integer-atoi.md) | Medium     |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
 
 ## Stack
 
@@ -104,19 +119,20 @@
 
 ## 1 - 100
 
-| #    | Title                                    | Solution                                 | Difficulty |
-| ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](solutions/1-two-sum.md)         | Easy       |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/2-add-two-numbers.md) | Medium     |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | [Python](solutions/1-two-sum.md)                             | Easy       |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/2-add-two-numbers.md)                     | Medium     |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](solutions/3-longest-substring-without-repeating-characters.md) | Medium     |
-| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Python](solutions/4-median-of-two-sorted-arrays.md) | Medium     |
-| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](solutions/5-longest-palindromic-substring.md) | Medium     |
-| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Python](6-zigzag-conversion.md)         | Medium     |
-| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/7-reverse-integer.md) | Easy       |
-| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/8-string-to-integer-atoi.md) | Medium     |
-| 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](solutions/11-container-with-most-water.md) | Medium     |
-| 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](solutions/74-search-a-2d-matrix.md) | Medium     |
-| 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84-largest-rectangle-in-histogram.md) | Hard       |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Python](solutions/4-median-of-two-sorted-arrays.md)         | Medium     |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](solutions/5-longest-palindromic-substring.md)       | Medium     |
+| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Python](6-zigzag-conversion.md)                             | Medium     |
+| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/7-reverse-integer.md)                     | Easy       |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/8-string-to-integer-atoi.md)              | Medium     |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
+| 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](solutions/11-container-with-most-water.md)          | Medium     |
+| 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](solutions/74-search-a-2d-matrix.md)                 | Medium     |
+| 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84-largest-rectangle-in-histogram.md)     | Hard       |
 
 
 ## 101 - 200
