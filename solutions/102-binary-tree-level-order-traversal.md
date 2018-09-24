@@ -6,7 +6,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
 ## Breadth-first Search
 

@@ -6,7 +6,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 
 # Depth-first Search
 

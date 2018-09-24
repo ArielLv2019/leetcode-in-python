@@ -6,8 +6,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
-
 # Binary Search
 
 Time Complexity: O(log(m*n))

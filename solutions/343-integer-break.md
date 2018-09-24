@@ -6,8 +6,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Integer Break](https://leetcode.com/problems/integer-break/description/)
-
 # Math
 
 ```python

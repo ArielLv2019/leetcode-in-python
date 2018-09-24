@@ -9,9 +9,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Two Sum](https://leetcode.com/problems/two-sum)
-
-
 # Brute Force
 
 Time Complexity: O(n^2)

@@ -7,7 +7,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)
 
 # Depth-first Search
 

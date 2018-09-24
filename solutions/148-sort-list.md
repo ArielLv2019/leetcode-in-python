@@ -7,8 +7,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-LeetCode: [Sort List](https://leetcode.com/problems/sort-list/description/)
-
 # Merge Sort
 
 Time Complexity: O(nlogn)
