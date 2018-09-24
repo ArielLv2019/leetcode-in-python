@@ -49,8 +49,9 @@
 
 | #    | Title                                    | Solution                                 | Difficulty |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Python](solutions/4-median-of-two-sorted-arrays.md) | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](solutions/74-search-a-2d-matrix.md) | Medium     |
-| 240  | [ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python](solutions/240-search-a-2d-matrix-ii.md) | Medium     |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python](solutions/240-search-a-2d-matrix-ii.md) | Medium     |
 
 ## Hash Table
 
@@ -104,6 +105,7 @@
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](solutions/1-two-sum.md)         | Easy       |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/2-add-two-numbers.md) | Medium     |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](solutions/3-longest-substring-without-repeating-characters.md) | Medium     |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Python](solutions/4-median-of-two-sorted-arrays.md) | Medium     |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](solutions/5-longest-palindromic-substring.md) | Medium     |
 | 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Python](6-zigzag-conversion.md)         | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](solutions/74-search-a-2d-matrix.md) | Medium     |
