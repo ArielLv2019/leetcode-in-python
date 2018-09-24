@@ -16,24 +16,23 @@ class Solution:
         :type p: str
         :rtype: bool
         """
-        memo = {}
+        m, n = len(s), len(p)
+        dp = [[False] * (m+1) for _ in range(n+1)]
+        dp[0][0] = True
 
-        def dp(i, j):
-            if (i, j) not in memo:
-                ans = False
-                if i == len(s) and j == len(p):
-                    ans = True
+        for i in range(n):
+            if p[i] == '*':
+                dp[i+1][0] = dp[i-1][0]
 
-                if j < len(p):
-                    first = i < len(s) and (p[j] == s[i] or p[j] == '.')
-                    if j + 1 < len(p) and p[j+1] == '*':
-                        ans = dp(i, j+2) or (first and dp(i+1, j))
-                    else:
-                        ans = first and dp(i+1, j+1)
+        for i in range(n):
+            for j in range(m):
+                if p[i] == '*':
+                    dp[i+1][j+1] |= dp[i-1][j+1]  # a* counts as empty
+                    if p[i-1] in {s[j], '.'}: # a* counts single/multiple a
+                        dp[i+1][j+1] |= dp[i+1][j] or dp[i][j+1]
+                else:
+                    dp[i+1][j+1] = p[i] in {s[j], '.'} and dp[i][j]
 
-                memo[(i, j)] = ans
+        return dp[-1][-1]
 
-            return memo[(i, j)]
-
-        return dp(0, 0)
 ```
