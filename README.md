@@ -33,6 +33,7 @@
 
 | #    | Title                                    | Solution                             | Difficulty |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/2-add-two-numbers.md) | Medium     |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list) | [Python](solutions/148-sort-list.md) | Medium     |
 
 ## Binary Search
@@ -79,6 +80,7 @@
 
 | #    | Title                                    | Solution                                 | Difficulty |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/2-add-two-numbers.md) | Medium     |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python](solutions/343-integer-break.md) | Medium     |
 
 
@@ -89,6 +91,7 @@
 | #    | Title                                    | Solution                                 | Difficulty |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](solutions/1-two-sum.md)         | Easy       |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/2-add-two-numbers.md) | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](solutions/74-search-a-2d-matrix.md) | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84-largest-rectangle-in-histogram.md) | Hard       |
 
