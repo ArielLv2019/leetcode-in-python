@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Topic](#topic)
+  - [String](#string)
   - [Stack](#stack)
   - [Linked List](#linked-list)
   - [Binary Search](#binary-search)
