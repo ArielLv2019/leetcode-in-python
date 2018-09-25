@@ -17,22 +17,19 @@ class Solution:
         :rtype: bool
         """
         m, n = len(s), len(p)
-        dp = [[False] * (m+1) for _ in range(n+1)]
+        dp = [[False] * (n+1) for _ in range(m+1)]
         dp[0][0] = True
 
         for i in range(n):
             if p[i] == '*':
-                dp[i+1][0] = dp[i-1][0]
+                dp[0][i+1] = dp[0][i]
 
-        for i in range(n):
-            for j in range(m):
-                if p[i] == '*':
-                    dp[i+1][j+1] |= dp[i-1][j+1]  # a* counts as empty
-                    if p[i-1] in {s[j], '.'}: # a* counts single/multiple a
-                        dp[i+1][j+1] |= dp[i+1][j] or dp[i][j+1]
-                elif p[i] in {s[j], '.'}:
+        for i in range(m):
+            for j in range(n):
+                if p[j] == '*':
+                    dp[i+1][j+1] = dp[i+1][j] or dp[i][j+1]
+                elif p[j] == '?' or p[j] == s[i]:
                     dp[i+1][j+1] = dp[i][j]
 
         return dp[-1][-1]
-
 ```

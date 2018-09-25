@@ -33,6 +33,7 @@
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md) | Hard       |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)            | Easy       |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](32-longest-valid-parentheses.md)             | Hard       |
+| 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)           | Hard       |
 
 ## Backtracking
 
@@ -165,6 +166,7 @@
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)                  | Easy       |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](32-longest-valid-parentheses.md)                   | Hard       |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python3](solutions/22-generate-parentheses.md)              | Medium     |
+| 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python3](solutions/84-largest-rectangle-in-histogram.md)    | Hard       |
 
