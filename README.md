@@ -141,14 +141,15 @@
 
 ## Math
 
-| #    | Title                                                        | Solution                                         | Difficulty |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------ | ---------- |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python3](solutions/2-add-two-numbers.md)        | Medium     |
-| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python3](solutions/7-reverse-integer.md)        | Easy       |
-| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python3](solutions/8-string-to-integer-atoi.md) | Medium     |
-| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python3](solutions/13-roman-to-integer.md)      | Easy       |
-| 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Python3](29-divide-two-integers.md)             | Medium     |
-| 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)        | Medium     |
+| #    | Title                                                        | Solution                                          | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------- | ---------- |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python3](solutions/2-add-two-numbers.md)         | Medium     |
+| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python3](solutions/7-reverse-integer.md)         | Easy       |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python3](solutions/8-string-to-integer-atoi.md)  | Medium     |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python3](solutions/13-roman-to-integer.md)       | Easy       |
+| 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Python3](29-divide-two-integers.md)              | Medium     |
+| 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python3](solutions/41-first-missing-positive.md) | Hard       |
+| 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)         | Medium     |
 
 
 # Sequence
@@ -185,6 +186,7 @@
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python3](solutions/36-valid-sudoku.md)                      | Medium     |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python3](solutions/37-sudoku-solver.md)                     | Hard       |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python3](38-count-and-say.md)                               | Easy       |
+| 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python3](solutions/41-first-missing-positive.md)            | Hard       |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
