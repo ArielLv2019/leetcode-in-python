@@ -22,23 +22,23 @@ class Solution:
         if num == 0:
             return "Zero"
         ret = ""
-        if num // 1000000000 != 0:
+        if num >= 1000000000:
             ret += self.numberToWords(num // 1000000000) + " Billion "
             num %= 1000000000
-        if num // 1000000 != 0:
+        if num >= 1000000:
             ret += self.numberToWords(num // 1000000) + " Million "
             num %= 1000000
-        if num // 1000 != 0:
+        if num >= 1000:
             ret += self.numberToWords(num // 1000) + " Thousand "
             num %= 1000
-        if num // 100 != 0:
+        if num >= 100:
             ret += self.numberToWords(num // 100) + " Hundred "
             num %= 100
-        if num >= 20 and num // 10 != 0:
+        if num >= 20:
             ret += self.tens[num // 10 - 2] + " "
             num %= 10
         if num != 0:
             ret += self.ones[num - 1]
-            
+
         return ret.strip()
 ```

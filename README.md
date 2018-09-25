@@ -21,7 +21,8 @@
   - [101 - 200](#101---200)
   - [201 - 300](#201---300)
   - [301 - 400](#301---400)
-- [401 - 500](#401---500)
+  - [401 - 500](#401---500)
+  - [701 - 800](#701---800)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -60,7 +61,9 @@
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python3](solutions/14-longest-common-prefix.md)             | Easy       |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python3](solutions/17-letter-combinations-of-a-phone-number.md) | Medium     |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python3](38-count-and-say.md)                               | Easy       |
+| 186  | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) | [Python3](solutions/186-reverse-words-in-a-string-ii.md)     | Medium     |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)         | Medium     |
+| 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 
 ## Stack
 
@@ -213,6 +216,8 @@
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                        | Medium     |
+| 171  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python3](solutions/171-excel-sheet-column-number.md)        | Easy       |
+| 186  | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) | [Python3](solutions/186-reverse-words-in-a-string-ii.md)     | Medium     |
 
 ## 201 - 300
 
@@ -232,9 +237,16 @@
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [Python3](solution/384-shuffle-an-array.md)                  | Medium     |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md)                    | Medium     |
 
-# 401 - 500
+## 401 - 500
 
 | #    | Title                                                        | Solution                                           | Difficulty |
 | ---- | ------------------------------------------------------------ | -------------------------------------------------- | ---------- |
 | 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Python3](solutions/419-battleships-in-a-board.md) | Medium     |
+| 445  |                                                              | [Python3](solutions/445-add-two-numbers-ii.md)     | Medium     |
+
+## 701 - 800
+
+| #    | Title                                                        | Solution                                    | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------- | ---------- |
+| 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md) | Medium     |
 
