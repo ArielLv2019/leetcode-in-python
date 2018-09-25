@@ -125,10 +125,11 @@
 
 ## Breadth-first Search
 
-| #    | Title                                    | Solution                                 | Difficulty |
-| ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
-| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](solutions/301-remove-invalid-parentheses.md) | Hard       |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Python3](103-binary-tree-zigzag-level-order-traversal.md)   | Medium     |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
 
 ## Tree
 
@@ -138,6 +139,8 @@
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python3](solutions/98-validate-binary-search-tree.md)       | Medium     |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python3](solutions/101-symmetric-tree.md)                   | Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Python3](103-binary-tree-zigzag-level-order-traversal.md)   | Medium     |
+| 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](236-lowest-common-ancestor-of-a-binary-tree.md)    | Medium     |
 
 ## Two Pointers
 
@@ -201,9 +204,11 @@
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python3](solutions/41-first-missing-positive.md)            | Hard       |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python3](solutions/46-permutations.md)                      | Medium     |
+| 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python3](solutions/84-largest-rectangle-in-histogram.md)    | Hard       |
+| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](solutions/88-merge-sorted-array.md)                | Easy       |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python3](solutions/94-binary-tree-inorder-traversal.md)     | Medium     |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python3](solutions/98-validate-binary-search-tree.md)       | Medium     |
 
@@ -214,6 +219,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python3](solutions/101-symmetric-tree.md)                   | Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Python3](103-binary-tree-zigzag-level-order-traversal.md)   | Medium     |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                        | Medium     |
 | 171  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python3](solutions/171-excel-sheet-column-number.md)        | Easy       |
@@ -221,11 +227,12 @@
 
 ## 201 - 300
 
-| #    | Title                                                        | Solution                                             | Difficulty |
-| ---- | ------------------------------------------------------------ | ---------------------------------------------------- | ---------- |
-| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)      | Easy       |
-| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)    | Medium     |
-| 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md) | Medium     |
+| #    | Title                                                        | Solution                                                  | Difficulty |
+| ---- | ------------------------------------------------------------ | --------------------------------------------------------- | ---------- |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)           | Easy       |
+| 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)         | Medium     |
+| 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)      | Medium     |
 
 ## 301 - 400
 
