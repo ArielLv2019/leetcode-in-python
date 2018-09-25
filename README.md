@@ -43,6 +43,7 @@
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python3](solutions/17-letter-combinations-of-a-phone-number.md) | Medium     |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python3](solutions/22-generate-parentheses.md)              | Medium     |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python3](solutions/37-sudoku-solver.md)                     | Hard       |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python3](solutions/46-permutations.md)                      | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
 
 ## String
@@ -188,6 +189,7 @@
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python3](38-count-and-say.md)                               | Easy       |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python3](solutions/41-first-missing-positive.md)            | Hard       |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python3](solutions/46-permutations.md)                      | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python3](solutions/84-largest-rectangle-in-histogram.md)    | Hard       |
