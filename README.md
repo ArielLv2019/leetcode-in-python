@@ -72,9 +72,10 @@
 
 ## Heap
 
-| #    | Title                                                        | Solution                                        | Difficulty |
-| ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
-| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md) | Hard       |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)              | Hard       |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
 
 ## Linked List
 
@@ -96,6 +97,7 @@
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Python3](solutions/34-find-first-and-last-position-of-element-in-sorted-array.md) | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
 
 ## Hash Table
 
@@ -213,9 +215,11 @@
 
 ## 301 - 400
 
-| #    | Title                                    | Solution                                 | Difficulty |
-| ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
-| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md) | Hard       |
-| 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md) | Medium     |
-| 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md) | Medium     |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
+| 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                    | Medium     |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
+| 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [Python3](solution/384-shuffle-an-array.md)                  | Medium     |
+| 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md)                    | Medium     |
 
