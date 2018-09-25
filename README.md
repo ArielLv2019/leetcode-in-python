@@ -47,6 +47,7 @@
 | 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Python](6-zigzag-conversion.md)         | Medium     |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/8-string-to-integer-atoi.md) | Medium     |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](solutions/13-roman-to-integer.md)                   | Easy       |
 
 ## Stack
 
@@ -114,6 +115,7 @@
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/2-add-two-numbers.md) | Medium     |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/7-reverse-integer.md) | Easy       |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/8-string-to-integer-atoi.md) | Medium     |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](solutions/13-roman-to-integer.md)                   | Easy       |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python](solutions/343-integer-break.md) | Medium     |
 
 
@@ -133,6 +135,7 @@
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/8-string-to-integer-atoi.md)              | Medium     |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](solutions/11-container-with-most-water.md)          | Medium     |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](solutions/13-roman-to-integer.md)                   | Easy       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20-valid-parentheses.md)                  | Easy       |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](solutions/22-generate-parentheses.md)               | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](solutions/74-search-a-2d-matrix.md)                 | Medium     |
