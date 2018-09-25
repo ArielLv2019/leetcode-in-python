@@ -1,4 +1,6 @@
 
+# Brute Force
+
 ```python
 class Solution:
     def isValidSudoku(self, board):
@@ -44,6 +46,28 @@ class Solution:
         for x, y in [(0,0), (3,0),(6,0),(0,3),(3,3),(6,3),(0,6),(3,6),(6,6)]:
             if not box(x, y):
                 return False
+
+        return True
+```
+
+# Hash Table
+
+```python
+class Solution:
+    def isValidSudoku(self, board):
+        """
+        :type board: List[List[str]]
+        :rtype: bool
+        """
+        seen = set()
+        for i, row in enumerate(board):
+            for j, ch in enumerate(row):
+                if ch != '.':
+                    for item in [(ch, i), (j, ch), (i//3, j//3, ch)]:
+                        if item in seen:
+                            return False
+                        else:
+                            seen.add(item)
 
         return True
 ```

@@ -96,10 +96,11 @@
 
 ## Hash Table
 
-| #    | Title                                    | Solution                                 | Difficulty |
-| ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum) | [Python3](solutions/1-two-sum.md)         | Easy       |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | [Python3](solutions/1-two-sum.md)                            | Easy       |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python3](solutions/3-longest-substring-without-repeating-characters.md) | Medium     |
+| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python3](solutions/36-valid-sudoku.md)                      | Medium     |
 
 ## Depth-first Search
 
