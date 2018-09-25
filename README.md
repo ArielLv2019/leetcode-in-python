@@ -30,6 +30,7 @@
 | #    | Title                                    | Solution                                 | Difficulty |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
+| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python](32-longest-valid-parentheses.md)                    | Hard       |
 
 ## Backtracking
 
@@ -48,12 +49,14 @@
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/8-string-to-integer-atoi.md) | Medium     |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](solutions/13-roman-to-integer.md)                   | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python](solutions/14-longest-common-prefix.md)              | Easy       |
 
 ## Stack
 
 | #    | Title                                    | Solution                                 | Difficulty |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20-valid-parentheses.md)                  | Easy       |
+| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python](32-longest-valid-parentheses.md)                    | Hard       |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python](solutions/394-decode-string.md) | Medium     |
 
 
@@ -136,7 +139,9 @@
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](solutions/10-regular-expression-matching.md)        | Hard       |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](solutions/11-container-with-most-water.md)          | Medium     |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](solutions/13-roman-to-integer.md)                   | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python](solutions/14-longest-common-prefix.md)              | Easy       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20-valid-parentheses.md)                  | Easy       |
+| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python](32-longest-valid-parentheses.md)                    | Hard       |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](solutions/22-generate-parentheses.md)               | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](solutions/74-search-a-2d-matrix.md)                 | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84-largest-rectangle-in-histogram.md)     | Hard       |
