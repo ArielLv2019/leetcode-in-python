@@ -7,6 +7,7 @@
   - [Backtracking](#backtracking)
   - [String](#string)
   - [Stack](#stack)
+  - [Heap](#heap)
   - [Linked List](#linked-list)
   - [Binary Search](#binary-search)
   - [Hash Table](#hash-table)
@@ -27,10 +28,11 @@
 
 ## Dynamic Programming
 
-| #    | Title                                    | Solution                                 | Difficulty |
-| ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
-| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md)        | Hard       |
-| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](32-longest-valid-parentheses.md)                    | Hard       |
+| #    | Title                                                        | Solution                                               | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------ | ---------- |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md) | Hard       |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)            | Easy       |
+| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](32-longest-valid-parentheses.md)             | Hard       |
 
 ## Backtracking
 
@@ -122,6 +124,7 @@
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python3](solutions/11-container-with-most-water.md)         | Medium     |
 | 15   | [3Sum](https://leetcode.com/problems/3sum)                   | [Python3](solutions/15-3sum.md)                              | Medium     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python3](solutions/26-remove-duplicates-from-sorted-array.md) | Easy       |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)                  | Easy       |
 
 ## Math
 
@@ -159,6 +162,7 @@
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python3](solutions/21-merge-two-sorted-lists.md)            | Easy       |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)              | Hard       |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python3](solutions/26-remove-duplicates-from-sorted-array.md) | Easy       |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)                  | Easy       |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](32-longest-valid-parentheses.md)                   | Hard       |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python3](solutions/22-generate-parentheses.md)              | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
