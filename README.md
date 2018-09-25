@@ -42,6 +42,7 @@
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md)       | Hard       |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python3](solutions/17-letter-combinations-of-a-phone-number.md) | Medium     |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python3](solutions/22-generate-parentheses.md)              | Medium     |
+| 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python3](solutions/37-sudoku-solver.md)                     | Hard       |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
 
 ## String
@@ -49,13 +50,14 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python3](solutions/3-longest-substring-without-repeating-characters.md) | Medium     |
-| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python3](solutions/5-longest-palindromic-substring.md)       | Medium     |
-| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Python3](6-zigzag-conversion.md)                             | Medium     |
-| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python3](solutions/8-string-to-integer-atoi.md)              | Medium     |
-| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md)        | Hard       |
-| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python3](solutions/13-roman-to-integer.md)                   | Easy       |
-| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python3](solutions/14-longest-common-prefix.md)              | Easy       |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python3](solutions/5-longest-palindromic-substring.md)      | Medium     |
+| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Python3](6-zigzag-conversion.md)                            | Medium     |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Python3](solutions/8-string-to-integer-atoi.md)             | Medium     |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md)       | Hard       |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python3](solutions/13-roman-to-integer.md)                  | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python3](solutions/14-longest-common-prefix.md)             | Easy       |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python3](solutions/17-letter-combinations-of-a-phone-number.md) | Medium     |
+| 38   | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python3](38-count-and-say.md)                               | Easy       |
 
 ## Stack
 
@@ -181,6 +183,8 @@
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python3](solutions/33-search-in-rotated-sorted-array.md)    | Medium     |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Python3](solutions/34-find-first-and-last-position-of-element-in-sorted-array.md) | Medium     |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python3](solutions/36-valid-sudoku.md)                      | Medium     |
+| 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python3](solutions/37-sudoku-solver.md)                     | Hard       |
+| 38   | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python3](38-count-and-say.md)                               | Easy       |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
