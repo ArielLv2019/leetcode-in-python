@@ -114,6 +114,8 @@
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)             | Hard       |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Python3](solutions/24-swap-nodes-in-pairs.md)              | Medium     |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)   | Medium     |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)               | Easy       |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)            | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                       | Hard       |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                       | Medium     |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)             | Easy       |
@@ -186,6 +188,8 @@
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python3](solutions/26-remove-duplicates-from-sorted-array.md) | Easy       |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)                  | Easy       |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python3](solutions/75-sort-colors.md)                       | Medium     |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)                | Easy       |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)             | Medium     |
 
 ## Math
 
@@ -265,6 +269,8 @@
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python3](solutions/122-best-time-to-buy-and-sell-stock-ii.md) | Easy       |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Python3](solutions/123-best-time-to-buy-and-sell-stock-iii.md) | Medium     |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)                | Easy       |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)             | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                        | Medium     |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Python3](solutions/151-reverse-words-in-a-string.md)        | Medium     |
@@ -280,6 +286,7 @@
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Python3](solutions/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python3](solutions/268-missing-number.md)                   | Easy       |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)         | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
 
