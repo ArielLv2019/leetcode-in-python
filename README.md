@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Topic](#topic)
+  - [Greedy](#greedy)
   - [Dynamic Programming](#dynamic-programming)
   - [Backtracking](#backtracking)
   - [String](#string)
@@ -29,15 +30,25 @@
 
 # Topic
 
+## Greedy
+
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python3](solutions/122-best-time-to-buy-and-sell-stock-ii.md) | Easy       |
+
 ## Dynamic Programming
 
-| #    | Title                                                        | Solution                                               | Difficulty |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------ | ---------- |
-| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md) | Hard       |
-| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)            | Easy       |
-| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](solutions/32-longest-valid-parentheses.md)             | Hard       |
-| 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)           | Hard       |
-| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python3](solutions/53-maximum-subarray.md)                      | Easy       |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python3](solutions/10-regular-expression-matching.md)       | Hard       |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)                  | Easy       |
+| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](solutions/32-longest-valid-parentheses.md)         | Hard       |
+| 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
+| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python3](solutions/53-maximum-subarray.md)                  | Easy       |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python3](solutions/121-best-time-to-buy-and-sell-stock.md)  | Easy       |
+| 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Python3](solutions/123-best-time-to-buy-and-sell-stock-iii.md) | Medium     |
+| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](soluttions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
 
 ## Backtracking
 
@@ -145,6 +156,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
 | 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Python3](solutions/103-binary-tree-zigzag-level-order-traversal.md) | Medium     |
+| 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | [Python2](solutions/117-populating-next-right-pointers-in-each-node-ii.md) | Medium     |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Python3](solutions/200-number-of-islands.md)                | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
@@ -159,6 +171,7 @@
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
 | 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Python3](solutions/103-binary-tree-zigzag-level-order-traversal.md) | Medium     |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [Python2](solutions/116-populating-next-right-pointers-in-each-node.md) | Medium     |
+| 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | [Python2](solutions/117-populating-next-right-pointers-in-each-node-ii.md) | Medium     |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
 
@@ -247,6 +260,10 @@
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](solutions/102-binary-tree-level-order-traversal.md) | Medium     |
 | 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Python3](solutions/103-binary-tree-zigzag-level-order-traversal.md) | Medium     |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [Python2](solutions/116-populating-next-right-pointers-in-each-node.md) | Medium     |
+| 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | [Python2](solutions/117-populating-next-right-pointers-in-each-node-ii.md) | Medium     |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python3](solutions/121-best-time-to-buy-and-sell-stock.md)  | Easy       |
+| 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python3](solutions/122-best-time-to-buy-and-sell-stock-ii.md) | Easy       |
+| 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Python3](solutions/123-best-time-to-buy-and-sell-stock-iii.md) | Medium     |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                        | Medium     |
@@ -271,9 +288,10 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
+| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                    | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
-| 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [Python3](solutions/384-shuffle-an-array.md)                  | Medium     |
+| 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [Python3](solutions/384-shuffle-an-array.md)                 | Medium     |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md)                    | Medium     |
 
 ## 401 - 500
@@ -285,7 +303,8 @@
 
 ## 701 - 800
 
-| #    | Title                                                        | Solution                                    | Difficulty |
-| ---- | ------------------------------------------------------------ | ------------------------------------------- | ---------- |
-| 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md) | Medium     |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](soluttions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
+| 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 
