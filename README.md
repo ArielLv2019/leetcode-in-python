@@ -108,19 +108,20 @@
 
 ## Linked List
 
-| #    | Title                                                        | Solution                                                    | Difficulty |
-| ---- | ------------------------------------------------------------ | ----------------------------------------------------------- | ---------- |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python3](solutions/2-add-two-numbers.md)                   | Medium     |
-| 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python3](solutions/19-remove-nth-node-from-end-of-list.md) | Medium     |
-| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python3](solutions/21-merge-two-sorted-lists.md)           | Easy       |
-| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)             | Hard       |
-| 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Python3](solutions/24-swap-nodes-in-pairs.md)              | Medium     |
-| 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)   | Medium     |
-| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)               | Easy       |
-| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)            | Medium     |
-| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                       | Hard       |
-| 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                       | Medium     |
-| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)             | Easy       |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python3](solutions/2-add-two-numbers.md)                    | Medium     |
+| 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python3](solutions/19-remove-nth-node-from-end-of-list.md)  | Medium     |
+| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python3](solutions/21-merge-two-sorted-lists.md)            | Easy       |
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)              | Hard       |
+| 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Python3](solutions/24-swap-nodes-in-pairs.md)               | Medium     |
+| 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)                | Easy       |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)             | Medium     |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                        | Medium     |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](solutions/160-intersection-of-two-linked-lists.md) | Easy       |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)              | Easy       |
 
 ## Binary Search
 
@@ -285,6 +286,7 @@
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         | [Python3](solutions/148-sort-list.md)                        | Medium     |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Python3](solutions/151-reverse-words-in-a-string.md)        | Medium     |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](solutions/160-intersection-of-two-linked-lists.md) | Easy       |
 | 171  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python3](solutions/171-excel-sheet-column-number.md)        | Easy       |
 | 186  | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) | [Python3](solutions/186-reverse-words-in-a-string-ii.md)     | Medium     |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Python3](solutions/200-number-of-islands.md)                | Medium     |
