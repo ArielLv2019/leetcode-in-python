@@ -138,6 +138,7 @@
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](solutions/160-intersection-of-two-linked-lists.md) | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)              | Easy       |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python3](solutions/237-delete-node-in-a-linked-list.md)     | Easy       |
+| 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)               | Medium     |
 
 ## Binary Search
 
@@ -354,7 +355,7 @@
 | #    | Title                                                        | Solution                                           | Difficulty |
 | ---- | ------------------------------------------------------------ | -------------------------------------------------- | ---------- |
 | 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Python3](solutions/419-battleships-in-a-board.md) | Medium     |
-| 445  |                                                              | [Python3](solutions/445-add-two-numbers-ii.md)     | Medium     |
+| 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)     | Medium     |
 
 # 601 - 700
 
