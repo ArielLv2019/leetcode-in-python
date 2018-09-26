@@ -18,12 +18,14 @@
   - [Tree](#tree)
   - [Two Pointers](#two-pointers)
   - [Math](#math)
+  - [Trie](#trie)
 - [Sequence](#sequence)
   - [1 - 100](#1---100)
   - [101 - 200](#101---200)
   - [201 - 300](#201---300)
   - [301 - 400](#301---400)
   - [401 - 500](#401---500)
+- [601 - 700](#601---700)
   - [701 - 800](#701---800)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -150,6 +152,7 @@
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python3](solutions/101-symmetric-tree.md)                   | Easy       |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [Python2](solutions/116-populating-next-right-pointers-in-each-node.md) | Medium     |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Python3](solutions/200-number-of-islands.md)                | Medium     |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
 
 ## Breadth-first Search
@@ -203,6 +206,14 @@
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python3](solutions/41-first-missing-positive.md)    | Hard       |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md) | Medium     |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)            | Medium     |
+
+## Trie
+
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
+| 642  | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) | [Python3](solutions/642-design-search-autocomplete-system.md) | Hard       |
+
 
 
 # Sequence
@@ -283,8 +294,11 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)              | Easy       |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Python3](solutions/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
+| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python3](solutions/238-product-of-array-except-self.md)     | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python3](solutions/268-missing-number.md)                   | Easy       |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)         | Medium     |
@@ -307,6 +321,12 @@
 | ---- | ------------------------------------------------------------ | -------------------------------------------------- | ---------- |
 | 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Python3](solutions/419-battleships-in-a-board.md) | Medium     |
 | 445  |                                                              | [Python3](solutions/445-add-two-numbers-ii.md)     | Medium     |
+
+# 601 - 700
+
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 642  | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) | [Python3](solutions/642-design-search-autocomplete-system.md) | Hard       |
 
 ## 701 - 800
 
