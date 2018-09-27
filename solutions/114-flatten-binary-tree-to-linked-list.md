@@ -3,7 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Depth-first Search](#depth-first-search)
-- [Recursion](#recursion)
+- [Recursion: Postorder](#recursion-postorder)
+- [Recursion: Preorder](#recursion-preorder)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,7 +30,7 @@ class Solution:
             last = node
 ```
 
-# Recursion
+# Recursion: Postorder
 
 ```python
 class Solution:
@@ -49,4 +50,30 @@ class Solution:
             self.prev = root
 
         post(root)
+```
+
+# Recursion: Preorder
+
+```python
+class Solution:
+    def flatten(self, root):
+        """
+        :type root: TreeNode
+        :rtype: void Do not return anything, modify root in-place instead.
+        """
+        self.prev = TreeNode(0)
+        def preOrder(root):
+            if not root: return
+
+            l = root.left
+            r = root.right
+
+            self.prev.right = root
+            root.left = None
+            self.prev = root
+
+            preOrder(l)
+            preOrder(r)
+
+        preOrder(root)
 ```
