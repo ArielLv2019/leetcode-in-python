@@ -10,16 +10,18 @@
 
 ```python
 class Solution:
-    def merge(self, intervals):
+    def findMinArrowShots(self, points):
         """
-        :type intervals: List[Interval]
-        :rtype: List[Interval]
+        :type points: List[List[int]]
+        :rtype: int
         """
-        ans = []
-        for i in sorted(intervals, key=lambda i: i.start):
-            if ans and i.start <= ans[-1].end:
-                ans[-1].end = max(ans[-1].end, i.end)
-            else:
-                ans += i
+        if not points: return 0
+        points.sort(key=lambda x:x[1])
+        ans = 0
+        tail = float('-inf')
+        for start, end in points:
+            if start > tail:
+                ans, tail = ans + 1, end
+
         return ans
 ```

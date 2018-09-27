@@ -48,6 +48,7 @@
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [Python3](solutions/45-jump-game-ii.md)                      | Hard       |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Python3](solutions/55-jump-game.md)                         | Medium     |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python3](solutions/122-best-time-to-buy-and-sell-stock-ii.md) | Easy       |
+| 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](solutions/452-minimum-number-of-arrows-to-burst-balloons.md) | Medium     |
 
 ## Dynamic Programming
 
@@ -64,6 +65,7 @@
 | 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [Python3](solutions/174-dungeon-game.md)                     | Hard       |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](solutions/300-longest-increasing-subsequence.md)   | Medium     |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
+| 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Python3](solutions/650-2-keys-keyboard.md)                  | Medium     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](soluttions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
 
 ## Backtracking
@@ -399,11 +401,12 @@
 
 ## 401 - 500
 
-| #    | Title                                                        | Solution                                           | Difficulty |
-| ---- | ------------------------------------------------------------ | -------------------------------------------------- | ---------- |
-| 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Python3](solutions/419-battleships-in-a-board.md) | Medium     |
-| 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)     | Easy       |
-| 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)     | Medium     |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Python3](solutions/419-battleships-in-a-board.md)           | Medium     |
+| 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
+| 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)               | Medium     |
+| 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](solutions/452-minimum-number-of-arrows-to-burst-balloons.md) | Medium     |
 
 ## 501 - 600
 
@@ -416,6 +419,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 642  | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) | [Python3](solutions/642-design-search-autocomplete-system.md) | Hard       |
+| 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Python3](solutions/650-2-keys-keyboard.md)                  | Medium     |
 
 ## 701 - 800
 
