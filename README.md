@@ -195,6 +195,7 @@
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Python3](solutions/200-number-of-islands.md)                | Medium     |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
+| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 
 ## Breadth-first Search
 
@@ -206,6 +207,8 @@
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Python3](solutions/200-number-of-islands.md)                | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
+| 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)            | Medium     |
+| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 
 ## Tree
 
@@ -228,6 +231,7 @@
 | 272  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) | [Python3](solutions/272-closest-binary-search-tree-value-ii.md) | Hard       |
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | [Python3](solutions/285-inorder-successor-in-bst.md)         | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
+| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 
 ## Two Pointers
 
@@ -260,6 +264,7 @@
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits/)      | [Python3](solutions/258-add-digits/,d)                    | Easy       |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)      | Medium     |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                 | Medium     |
+| 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)         | Medium     |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md) | Hard       |
 
 ## Trie
@@ -394,6 +399,7 @@
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                    | Medium     |
+| 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)            | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [Python3](solutions/384-shuffle-an-array.md)                 | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
@@ -410,9 +416,10 @@
 
 ## 501 - 600
 
-| #    | Title                                                        | Solution                                          | Difficulty |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------- | ---------- |
-| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md) | Medium     |
+| #    | Title                                                        | Solution                                                | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------- | ---------- |
+| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md) | Medium     |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)       | Medium     |
 
 ## 601 - 700
 
