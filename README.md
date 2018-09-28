@@ -49,6 +49,7 @@
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Python3](solutions/55-jump-game.md)                         | Medium     |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python3](solutions/122-best-time-to-buy-and-sell-stock-ii.md) | Easy       |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](solutions/452-minimum-number-of-arrows-to-burst-balloons.md) | Medium     |
+| 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [Python3](solutions/646-maximum-length-of-pair-chain.md)     | Medium     |
 
 ## Dynamic Programming
 
@@ -59,6 +60,7 @@
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](solutions/32-longest-valid-parentheses.md)         | Hard       |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python3](solutions/53-maximum-subarray.md)                  | Easy       |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Python3](solutions/70-climbing-stairs.md)                   | Easy       |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     | [Python3](solutions/91-decode-ways.md)                       | Medium     |
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Python3](solutions/95-unique-binary-search-trees-ii.md)     | Medium     |
@@ -66,10 +68,17 @@
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Python3](solutions/123-best-time-to-buy-and-sell-stock-iii.md) | Medium     |
 | 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [Python3](solutions/174-dungeon-game.md)                     | Hard       |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](solutions/300-longest-increasing-subsequence.md)   | Medium     |
+| 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [Python3](solutions/303-range-sum-query-immutable.md)        | Easy       |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
+| 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Python3](solutions/338-counting-bits.md)                    | Medium     |
+| 413  | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | [Python3](solutions/413-arithmetic-slices.md)                | Medium     |
+| 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [Python3](solutions/646-maximum-length-of-pair-chain.md)     | Medium     |
 | 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Python3](solutions/650-2-keys-keyboard.md)                  | Medium     |
 | 651  | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard) | [Python3](solutions/651-4-keys-keyboard.md)                  | Medium     |
-| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](soluttions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
+| 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [Python3](solutions/712-minimum-ascii-delete-sum-for-two-strings.md) | Medium     |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](solutions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
+| 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python3](solutions/746-min-cost-climbing-stairs.md)         | Easy       |
+| 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
 
 ## Backtracking
 
@@ -80,7 +89,7 @@
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python3](solutions/22-generate-parentheses.md)              | Medium     |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python3](solutions/37-sudoku-solver.md)                     | Hard       |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python3](solutions/46-permutations.md)                      | Medium     |
-| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/-subsets.md)                             | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
 
@@ -106,6 +115,7 @@
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)         | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 
 ## Array
@@ -261,6 +271,7 @@
 | 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Python2](solutions/590-n-ary-tree-postorder-traversal.md)   | Easy       |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python3](solutions/617-merge-two-binary-trees.md)           | Easy       |
 | 645  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python3](solutions/654-maximum-binary-tree.md)              | Medium     |
+| 652  | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [Python3](solutions/652-find-duplicate-subtrees.md)          | Medium     |
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Python3](solutions/669-trim-a-binary-search-tree.md)        | Easy       |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
@@ -355,11 +366,12 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Python3](solutions/55-jump-game.md)                         | Medium     |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Python3](solutions/56-merge-intervals.md)                   | Medium     |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Python3](solutions/70-climbing-stairs.md)                   | Easy       |
 | 71   | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](solutions/71-simplify-path.md)                     | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python3](solutions/75-sort-colors.md)                       | Medium     |
-| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](78-subsets.md)                                     | Medium     |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/78-subsets.md)                           | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python3](solutions/84-largest-rectangle-in-histogram.md)    | Hard       |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](solutions/88-merge-sorted-array.md)                | Easy       |
@@ -439,7 +451,9 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
+| 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [Python3](solutions/303-range-sum-query-immutable.md)        | Easy       |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
+| 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Python3](solutions/338-counting-bits.md)                    | Medium     |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                    | Medium     |
 | 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)            | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
@@ -451,10 +465,11 @@
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 413  | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | [Python3](solutions/413-arithmetic-slices.md)                | Medium     |
 | 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Python3](solutions/419-battleships-in-a-board.md)           | Medium     |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)               | Medium     |
-| 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [Python3](450-delete-node-in-a-bst.md)                       | Medium     |
+| 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [Python3](solutions/450-delete-node-in-a-bst.md)             | Medium     |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](solutions/452-minimum-number-of-arrows-to-burst-balloons.md) | Medium     |
 
 ## 501 - 600
@@ -474,9 +489,11 @@
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python3](solutions/617-merge-two-binary-trees.md)           | Easy       |
 | 642  | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) | [Python3](solutions/642-design-search-autocomplete-system.md) | Hard       |
 | 645  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python3](solutions/654-maximum-binary-tree.md)              | Medium     |
+| 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [Python3](solutions/646-maximum-length-of-pair-chain.md)     | Medium     |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Python3](solutions/650-2-keys-keyboard.md)                  | Medium     |
 | 651  | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard) | [Python3](solutions/651-4-keys-keyboard.md)                  | Medium     |
-| 652  |                                                              | [Python3](solutions/652-find-duplicate-subtrees.md)          | Medium     |
+| 652  | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [Python3](solutions/652-find-duplicate-subtrees.md)          | Medium     |
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Python3](solutions/669-trim-a-binary-search-tree.md)        | Easy       |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
@@ -485,8 +502,10 @@
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](soluttions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
+| 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [Python3](solutions/712-minimum-ascii-delete-sum-for-two-strings.md) | Medium     |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](solutions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
+| 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python3](solutions/746-min-cost-climbing-stairs.md)         | Easy       |
 
 ## 801 - 900
 
@@ -494,5 +513,6 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
+| 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 
