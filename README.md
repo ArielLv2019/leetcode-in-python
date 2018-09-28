@@ -399,6 +399,7 @@
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](solutions/215-kth-largest-element-in-an-array.md)  | Medium     |
+| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Pythoon3](solutions/222-count-complete-tree-nodes.md)       | Medium     |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Python3](solutions/232-implement-queue-using-stacks.md)     | Easy       |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Python3](solutions/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
