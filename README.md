@@ -275,6 +275,7 @@
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Python3](solutions/669-trim-a-binary-search-tree.md)        | Easy       |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
+| 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 
@@ -512,6 +513,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
+| 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
