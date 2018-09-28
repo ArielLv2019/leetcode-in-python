@@ -197,6 +197,8 @@
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
+| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
+| 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 
 ## Breadth-first Search
 
@@ -210,6 +212,7 @@
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
 | 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)            | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
+| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
 
 ## Tree
 
@@ -233,7 +236,14 @@
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | [Python3](solutions/285-inorder-successor-in-bst.md)         | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
+| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Python2](solutions/589-n-ary-tree-preorder-traversal.md)    | Easy       |
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Python2](solutions/590-n-ary-tree-postorder-traversal.md)   | Easy       |
+| 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python3](solutions/617-merge-two-binary-trees.md)           | Easy       |
 | 645  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python3](solutions/654-maximum-binary-tree.md)              | Medium     |
+| 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
+| 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
+| 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 
 ## Two Pointers
 
@@ -418,19 +428,24 @@
 
 ## 501 - 600
 
-| #    | Title                                                        | Solution                                                | Difficulty |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------- | ---------- |
-| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md) | Medium     |
-| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)       | Medium     |
+| #    | Title                                                        | Solution                                                   | Difficulty |
+| ---- | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------- |
+| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)    | Medium     |
+| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)    | Easy       |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)          | Medium     |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Python2](solutions/589-n-ary-tree-preorder-traversal.md)  | Easy       |
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Python2](solutions/590-n-ary-tree-postorder-traversal.md) | Easy       |
 
 ## 601 - 700
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python3](solutions/617-merge-two-binary-trees.md)           | Easy       |
 | 642  | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) | [Python3](solutions/642-design-search-autocomplete-system.md) | Hard       |
 | 645  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python3](solutions/654-maximum-binary-tree.md)              | Medium     |
 | 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Python3](solutions/650-2-keys-keyboard.md)                  | Medium     |
 | 651  | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard) | [Python3](solutions/651-4-keys-keyboard.md)                  | Medium     |
+| 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
 
 ## 701 - 800
 
@@ -441,7 +456,9 @@
 
 ## 801 - 900
 
-| #    | Title                                                        | Solution                                                  | Difficulty |
-| ---- | ------------------------------------------------------------ | --------------------------------------------------------- | ---------- |
-| 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md) | Hard       |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
+| 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
+| 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 
