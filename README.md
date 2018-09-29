@@ -122,6 +122,7 @@
 
 | #    | Title                                                        | Solution                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | -------------------------------------------- | ---------- |
+| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](solutions/31-next-permutation.md)  | Medium     |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Python3](solutions/48-rotate-image.md)      | Medium     |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)     | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md) | Medium     |
@@ -143,6 +144,8 @@
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Python3](solutions/232-implement-queue-using-stacks.md)     | Easy       |
 | 272  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) | [Python3](solutions/272-closest-binary-search-tree-value-ii.md) | Hard       |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md)                    | Medium     |
+| 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Python3](solutions/496-next-greater-element-i.md)           | Easy       |
+| 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | [Python3](solutions/503-next-greater-element-ii.md)          | Medium     |
 
 ## Heap
 
@@ -352,6 +355,7 @@
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python3](solutions/26-remove-duplicates-from-sorted-array.md) | Easy       |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)                  | Easy       |
 | 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Python3](solutions/29-divide-two-integers.md)               | Medium     |
+| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](solutions/31-next-permutation.md)                  | Medium     |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](solutions/32-longest-valid-parentheses.md)         | Hard       |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python3](solutions/33-search-in-rotated-sorted-array.md)    | Medium     |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Python3](solutions/34-find-first-and-last-position-of-element-in-sorted-array.md) | Medium     |
@@ -472,6 +476,7 @@
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)               | Medium     |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [Python3](solutions/450-delete-node-in-a-bst.md)             | Medium     |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](solutions/452-minimum-number-of-arrows-to-burst-balloons.md) | Medium     |
+| 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Python3](solutions/496-next-greater-element-i.md)           | Easy       |
 
 ## 501 - 600
 
