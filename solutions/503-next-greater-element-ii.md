@@ -3,15 +3,12 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Stack](#stack)
-- [Stack](#stack-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Stack
 
 The elements in the stack is the index, not the item of `nums`.
-
-# Stack
 
 ```python
 class Solution:
