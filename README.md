@@ -184,7 +184,7 @@
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Python3](solutions/34-find-first-and-last-position-of-element-in-sorted-array.md) | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](solutions/74-search-a-2d-matrix.md)                | Medium     |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](solutions/162-find-peak-element.md)                | Medium     |
-| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Pythoon3](solutions/222-count-complete-tree-nodes.md)       | Medium     |
+| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Python3](solutions/222-count-complete-tree-nodes.md)        | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](solutions/300-longest-increasing-subsequence.md)   | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
@@ -261,7 +261,8 @@
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python3](solutions/144-binary-tree-preorder-traversal.md)   | Medium     |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python3](solutions/145-binary-tree-postorder-traversal.md)  | Hard       |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Python3](solutions/173-binary-search-tree-iterator.md)      | Medium     |
-| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Pythoon3](solutions/222-count-complete-tree-nodes.md)       | Medium     |
+| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Python3](solutions/222-count-complete-tree-nodes.md)        | Medium     |
+| 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](solutions/226-invert-binary-tree.md)               | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
 | 270  | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) | [Python3](solutions/270-closest-binary-search-tree-value.md) | Easy       |
 | 272  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) | [Python3](solutions/272-closest-binary-search-tree-value-ii.md) | Hard       |
@@ -435,7 +436,8 @@
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](solutions/215-kth-largest-element-in-an-array.md)  | Medium     |
-| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Pythoon3](solutions/222-count-complete-tree-nodes.md)       | Medium     |
+| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Python3](solutions/222-count-complete-tree-nodes.md)        | Medium     |
+| 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](solutions/226-invert-binary-tree.md)               | Easy       |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Python3](solutions/232-implement-queue-using-stacks.md)     | Easy       |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Python3](solutions/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
