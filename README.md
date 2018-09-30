@@ -117,6 +117,7 @@
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
+| 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 
 ## Array
 
@@ -146,6 +147,7 @@
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md)                    | Medium     |
 | 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Python3](solutions/496-next-greater-element-i.md)           | Easy       |
 | 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | [Python3](solutions/503-next-greater-element-ii.md)          | Medium     |
+| 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 
 ## Heap
 
@@ -484,7 +486,9 @@
 
 | #    | Title                                                        | Solution                                                   | Difficulty |
 | ---- | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------- |
+| 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python3](solutions/503-next-greater-element-ii.md)        | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)    | Medium     |
+| 556  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python3](solutions/556-next-greater-element-iii.md)       | Medium     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)    | Easy       |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)          | Medium     |
 | 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Python2](solutions/589-n-ary-tree-preorder-traversal.md)  | Easy       |
@@ -520,6 +524,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
+| 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 | 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
