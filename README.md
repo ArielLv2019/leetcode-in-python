@@ -30,6 +30,7 @@
   - [601 - 700](#601---700)
   - [701 - 800](#701---800)
   - [801 - 900](#801---900)
+  - [901 - 1000](#901---1000)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -50,6 +51,7 @@
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python3](solutions/122-best-time-to-buy-and-sell-stock-ii.md) | Easy       |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](solutions/452-minimum-number-of-arrows-to-burst-balloons.md) | Medium     |
 | 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [Python3](solutions/646-maximum-length-of-pair-chain.md)     | Medium     |
+| 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 
 ## Dynamic Programming
 
@@ -118,16 +120,19 @@
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
 
 ## Array
 
-| #    | Title                                                        | Solution                                     | Difficulty |
-| ---- | ------------------------------------------------------------ | -------------------------------------------- | ---------- |
-| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](solutions/31-next-permutation.md)  | Medium     |
-| 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Python3](solutions/48-rotate-image.md)      | Medium     |
-| 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)     | Medium     |
-| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md) | Medium     |
-| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)     | Easy       |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](solutions/31-next-permutation.md)                  | Medium     |
+| 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Python3](solutions/48-rotate-image.md)                      | Medium     |
+| 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
+| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
+| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutons/911-online-election.md)                   | Medium     |
+| 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutoins/915-partition-array-into-disjoint-intervals.md) | Medium     |
 
 ## Stack
 
@@ -190,6 +195,7 @@
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](solutions/300-longest-increasing-subsequence.md)   | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
+| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutons/911-online-election.md)                   | Medium     |
 
 ## Hash Table
 
@@ -202,6 +208,7 @@
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
 
 ## Depth-first Search
 
@@ -301,6 +308,7 @@
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)             | Medium     |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)            | Medium     |
+| 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 
 ## Math
 
@@ -528,5 +536,14 @@
 | 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
+| 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
+
+## 901 - 1000
+
+| #    | Title                                                        | Solutoin                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutons/911-online-election.md)                   | Medium     |
+| 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutoins/915-partition-array-into-disjoint-intervals.md) | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
 
