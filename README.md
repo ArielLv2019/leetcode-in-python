@@ -119,7 +119,9 @@
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
+| 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
 | 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
 
 ## Array
@@ -131,6 +133,7 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
+| 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
 | 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutons/911-online-election.md)                   | Medium     |
 | 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutoins/915-partition-array-into-disjoint-intervals.md) | Medium     |
 
@@ -208,6 +211,7 @@
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
 | 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
 
 ## Depth-first Search
@@ -532,12 +536,16 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
+| 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
+| 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 | 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
+| 899  | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [Python3](solutions/899-orderly-queue.md)                    | Medium     |
 
 ## 901 - 1000
 
