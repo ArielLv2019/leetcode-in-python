@@ -75,6 +75,7 @@
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Python3](solutions/338-counting-bits.md)                    | Medium     |
 | 413  | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | [Python3](solutions/413-arithmetic-slices.md)                | Medium     |
+| 583  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Python3](solutions/583-delete-operation-for-two-strings.md) | Medium     |
 | 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [Python3](solutions/646-maximum-length-of-pair-chain.md)     | Medium     |
 | 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Python3](solutions/650-2-keys-keyboard.md)                  | Medium     |
 | 651  | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard) | [Python3](solutions/651-4-keys-keyboard.md)                  | Medium     |
@@ -118,13 +119,14 @@
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)         | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
+| 583  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Python3](solutions/583-delete-operation-for-two-strings.md) | Medium     |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 | 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
-| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                               | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                     | Medium     |
 
 ## Array
 
@@ -499,15 +501,16 @@
 
 ## 501 - 600
 
-| #    | Title                                                        | Solution                                                   | Difficulty |
-| ---- | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------- |
-| 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python3](solutions/503-next-greater-element-ii.md)        | Medium     |
-| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)    | Medium     |
-| 556  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python3](solutions/556-next-greater-element-iii.md)       | Medium     |
-| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)    | Easy       |
-| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)          | Medium     |
-| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Python2](solutions/589-n-ary-tree-preorder-traversal.md)  | Easy       |
-| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Python2](solutions/590-n-ary-tree-postorder-traversal.md) | Easy       |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python3](solutions/503-next-greater-element-ii.md)          | Medium     |
+| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
+| 556  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python3](solutions/556-next-greater-element-iii.md)         | Medium     |
+| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)            | Medium     |
+| 583  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Python3](solutions/583-delete-operation-for-two-strings.md) | Medium     |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Python2](solutions/589-n-ary-tree-preorder-traversal.md)    | Easy       |
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Python2](solutions/590-n-ary-tree-postorder-traversal.md)   | Easy       |
 
 ## 601 - 700
 
