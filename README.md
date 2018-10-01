@@ -83,6 +83,7 @@
 | 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [Python3](solutions/712-minimum-ascii-delete-sum-for-two-strings.md) | Medium     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](solutions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python3](solutions/746-min-cost-climbing-stairs.md)         | Easy       |
+| 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](solutions/873-length-of-longest-fibonacci-subsequence.md) | Medium     |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
 
 ## Backtracking
@@ -140,7 +141,9 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
-| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                   | Medium     |
+| 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](solutions/873-length-of-longest-fibonacci-subsequence.md) | Medium     |
+| 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python3](solutions/907-sum-of-subarray-minimums.md)         | Medium     |
+| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                  | Medium     |
 | 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutions/915-partition-array-into-disjoint-intervals.md) | Medium     |
 
 ## Stack
@@ -163,6 +166,7 @@
 | 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | [Python3](solutions/503-next-greater-element-ii.md)          | Medium     |
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](solutions/678-valid-parenthesis-string.md)         | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
+| 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python3](solutions/907-sum-of-subarray-minimums.md)         | Medium     |
 
 ## Heap
 
@@ -552,6 +556,7 @@
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 | 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
+| 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](solutions/873-length-of-longest-fibonacci-subsequence.md) | Medium     |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
@@ -562,7 +567,8 @@
 
 | #    | Title                                                        | Solutoin                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python3](solutions/907-sum-of-subarray-minimums.md)         | Medium     |
 | 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                  | Medium     |
 | 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutions/915-partition-array-into-disjoint-intervals.md) | Medium     |
-| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                               | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                     | Medium     |
 
