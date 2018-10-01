@@ -51,6 +51,7 @@
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python3](solutions/122-best-time-to-buy-and-sell-stock-ii.md) | Easy       |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python3](solutions/452-minimum-number-of-arrows-to-burst-balloons.md) | Medium     |
 | 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [Python3](solutions/646-maximum-length-of-pair-chain.md)     | Medium     |
+| 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 
 ## Dynamic Programming
@@ -119,10 +120,11 @@
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
+| 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 | 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
-| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                               | Medium     |
 
 ## Array
 
@@ -134,8 +136,8 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
-| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutons/911-online-election.md)                   | Medium     |
-| 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutoins/915-partition-array-into-disjoint-intervals.md) | Medium     |
+| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                   | Medium     |
+| 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutions/915-partition-array-into-disjoint-intervals.md) | Medium     |
 
 ## Stack
 
@@ -163,6 +165,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)              | Hard       |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
+| 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 
 ## Linked List
 
@@ -198,7 +201,7 @@
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python3](solutions/300-longest-increasing-subsequence.md)   | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
-| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutons/911-online-election.md)                   | Medium     |
+| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                   | Medium     |
 
 ## Hash Table
 
@@ -212,7 +215,7 @@
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
-| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                               | Medium     |
 
 ## Depth-first Search
 
@@ -530,6 +533,7 @@
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](solutions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python3](solutions/746-min-cost-climbing-stairs.md)         | Easy       |
+| 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 
 ## 801 - 900
 
@@ -551,7 +555,7 @@
 
 | #    | Title                                                        | Solutoin                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutons/911-online-election.md)                   | Medium     |
-| 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutoins/915-partition-array-into-disjoint-intervals.md) | Medium     |
-| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](916-word-subsets.md)                               | Medium     |
+| 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                  | Medium     |
+| 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutions/915-partition-array-into-disjoint-intervals.md) | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                               | Medium     |
 
