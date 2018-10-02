@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Heap](#heap)
+- [Sort](#sort)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -35,3 +36,21 @@ class Solution:
 
         return "".join(ans) + (hp[0][1] if hp else '')
 ```
+
+# Sort
+
+```python
+class Solution(object):
+    def reorganizeString(self, S):
+        n = len(S)
+        combo = []
+        for c, x in sorted([(S.count(x), x) for x in set(S)], reverse=True):
+            if c > (n+1)/2: return ""
+            combo.extend(c * x)
+            
+        ans = [None] * n
+        ans[::2], ans[1::2] = combo[:(n+1)/2], combo[(n+1)/2:]
+        return "".join(ans)
+```
+
+

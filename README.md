@@ -53,6 +53,7 @@
 | 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [Python3](solutions/646-maximum-length-of-pair-chain.md)     | Medium     |
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](solutions/678-valid-parenthesis-string.md)         | Medium     |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
+| 870  | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python3](solutions/870-advantage-shuffle.md)                | Medium     |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 
 ## Dynamic Programming
@@ -140,7 +141,9 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
+| 835  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Python3](solutions/835-image-overlap.md)                    | Medium     |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
+| 870  | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python3](solutions/870-advantage-shuffle.md)                | Medium     |
 | 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](solutions/873-length-of-longest-fibonacci-subsequence.md) | Medium     |
 | 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python3](solutions/907-sum-of-subarray-minimums.md)         | Medium     |
 | 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                  | Medium     |
@@ -552,9 +555,11 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
 | 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
+| 835  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Python3](solutions/835-image-overlap.md)                    | Medium     |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 | 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
+| 870  | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python3](solutions/870-advantage-shuffle.md)                | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](solutions/873-length-of-longest-fibonacci-subsequence.md) | Medium     |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
