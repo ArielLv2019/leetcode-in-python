@@ -312,6 +312,7 @@
 | 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](solutions/865-smallest-subtree-with-all-the-deepest-nodes.md) | Medium     |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
+| 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Python3](solutions/894-all-possible-full-binary-trees.md)   | Medium     |
 
 ## Two Pointers
 
@@ -570,6 +571,7 @@
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python3](solutions/881-boats-to-save-people.md)             | Medium     |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
+| 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Python3](solutions/894-all-possible-full-binary-trees.md)   | Medium     |
 | 899  | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [Python3](solutions/899-orderly-queue.md)                    | Medium     |
 
 ## 901 - 1000
