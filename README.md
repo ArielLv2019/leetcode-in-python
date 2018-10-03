@@ -141,6 +141,7 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
+| 825  | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Python3](solutions/825-friends-of-appropriate-ages.md)      | Medium     |
 | 835  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Python3](solutions/835-image-overlap.md)                    | Medium     |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
 | 870  | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python3](solutions/870-advantage-shuffle.md)                | Medium     |
@@ -554,6 +555,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
+| 825  | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Python3](solutions/825-friends-of-appropriate-ages.md)      | Medium     |
 | 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
 | 835  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Python3](solutions/835-image-overlap.md)                    | Medium     |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
