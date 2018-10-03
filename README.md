@@ -141,6 +141,7 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
+| 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
 | 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Python3](solutions/795-number-of-subarrays-with-bounded-maximum.md) | Medium     |
 | 825  | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Python3](solutions/825-friends-of-appropriate-ages.md)      | Medium     |
 | 835  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Python3](solutions/835-image-overlap.md)                    | Medium     |
@@ -228,8 +229,9 @@
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
+| 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
-| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                               | Medium     |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                     | Medium     |
 
 ## Depth-first Search
 
@@ -551,6 +553,7 @@
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python3](solutions/746-min-cost-climbing-stairs.md)         | Easy       |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
+| 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
 | 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Python3](solutions/795-number-of-subarrays-with-bounded-maximum.md) | Medium     |
 
 ## 801 - 900
