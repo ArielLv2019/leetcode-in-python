@@ -122,11 +122,13 @@
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)         | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
+| 539  | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Python3](solutions/539-minimum-time-difference.md)          | Medium     |
 | 583  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Python3](solutions/583-delete-operation-for-two-strings.md) | Medium     |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](solutions/647-palindromic-substrings.md)           | Medium     |
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](solutions/678-valid-parenthesis-string.md)         | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
+| 809  | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [Python3](solutions/809-expressive-words.md)                 | Medium     |
 | 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](solutions/856-score-of-parentheses.md)             | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
@@ -520,6 +522,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python3](solutions/503-next-greater-element-ii.md)          | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
+| 539  | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Python3](solutions/539-minimum-time-difference.md)          | Medium     |
 | 556  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python3](solutions/556-next-greater-element-iii.md)         | Medium     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python3](solutions/567-permutation-in-string.md)            | Medium     |
@@ -561,6 +564,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
+| 809  | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [Python3](solutions/809-expressive-words.md)                 | Medium     |
 | 825  | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Python3](solutions/825-friends-of-appropriate-ages.md)      | Medium     |
 | 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [Python3](solutions/831-masking-personal-information.md)     | Medium     |
 | 835  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Python3](solutions/835-image-overlap.md)                    | Medium     |
