@@ -66,7 +66,7 @@
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Python3](solutions/32-longest-valid-parentheses.md)         | Hard       |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python3](solutions/53-maximum-subarray.md)                  | Easy       |
-| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutoins/64-minimum-path-sum.md)                  | Medium     |
+| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutions/64-minimum-path-sum.md)                  | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Python3](solutions/70-climbing-stairs.md)                   | Easy       |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     | [Python3](solutions/91-decode-ways.md)                       | Medium     |
@@ -144,7 +144,7 @@
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](solutions/31-next-permutation.md)                  | Medium     |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Python3](solutions/48-rotate-image.md)                      | Medium     |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
-| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutoins/64-minimum-path-sum.md)                  | Medium     |
+| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutions/64-minimum-path-sum.md)                  | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
 | 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
@@ -422,7 +422,7 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Python3](solutions/55-jump-game.md)                         | Medium     |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Python3](solutions/56-merge-intervals.md)                   | Medium     |
-| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutoins/64-minimum-path-sum.md)                  | Medium     |
+| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutions/64-minimum-path-sum.md)                  | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Python3](solutions/70-climbing-stairs.md)                   | Easy       |
 | 71   | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](solutions/71-simplify-path.md)                     | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
@@ -498,7 +498,7 @@
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits/)      | [Python3](solutions/258-add-digits/,d)                       | Easy       |
 | 266  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | [Python3](solutions/266-palindrome-permutation.md)           | Easy       |
-| 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](267-palindrome-permutation-ii.md)                  | Medium     |
+| 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](solutions/267-palindrome-permutation-ii.md)        | Medium     |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python3](solutions/268-missing-number.md)                   | Easy       |
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Python3](solutions/269-alien-dictionary.md)                 | Hard       |
 | 270  | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) | [Python3](solutions/270-closest-binary-search-tree-value.md) | Easy       |
