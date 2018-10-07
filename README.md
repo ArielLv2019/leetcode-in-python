@@ -20,6 +20,7 @@
   - [Two Pointers](#two-pointers)
   - [Math](#math)
   - [Trie](#trie)
+  - [Topological Sort](#topological-sort)
 - [Sequence](#sequence)
   - [1 - 100](#1---100)
   - [101 - 200](#101---200)
@@ -98,6 +99,7 @@
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python3](solutions/46-permutations.md)                      | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/-subsets.md)                             | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
+| 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](solutions/267-palindrome-permutation-ii.md)        | Medium     |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
 
 ## String
@@ -202,6 +204,7 @@
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](solutions/160-intersection-of-two-linked-lists.md) | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)              | Easy       |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python3](solutions/237-delete-node-in-a-linked-list.md)     | Easy       |
+| 426  | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) | [Python3](solutions/426-convert-binary-search-tree-to-sorted-doubly-linked-list.md) | Medium     |
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)               | Medium     |
 
 ## Binary Search
@@ -230,6 +233,8 @@
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
+| 266  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | [Python3](solutions/266-palindrome-permutation.md)           | Easy       |
+| 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](solutions/267-palindrome-permutation-ii.md)        | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
 | 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
@@ -302,6 +307,7 @@
 | 272  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) | [Python3](solutions/272-closest-binary-search-tree-value-ii.md) | Hard       |
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | [Python3](solutions/285-inorder-successor-in-bst.md)         | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
+| 426  | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) | [Python3](solutions/426-convert-binary-search-tree-to-sorted-doubly-linked-list.md) | Medium     |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [Python3](solutions/450-delete-node-in-a-bst.md)             | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
@@ -358,9 +364,15 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 642  | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) | [Python3](solutions/642-design-search-autocomplete-system.md) | Hard       |
 
+## Topological Sort
 
+| #    | Title                                                        | Solution                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | -------------------------------------------- | ---------- |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python3](solutions/207-course-schedule.md)  | Medium     |
+| 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Python3](solutions/269-alien-dictionary.md) | Hard       |
 
 # Sequence
 
@@ -469,6 +481,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)              | Easy       |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python3](solutions/207-course-schedule.md)                  | Medium     |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](solutions/215-kth-largest-element-in-an-array.md)  | Medium     |
@@ -481,7 +494,10 @@
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python3](solutions/238-product-of-array-except-self.md)     | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits/)      | [Python3](solutions/258-add-digits/,d)                       | Easy       |
+| 266  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | [Python3](solutions/266-palindrome-permutation.md)           | Easy       |
+| 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](267-palindrome-permutation-ii.md)                  | Medium     |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python3](solutions/268-missing-number.md)                   | Easy       |
+| 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Python3](solutions/269-alien-dictionary.md)                 | Hard       |
 | 270  | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) | [Python3](solutions/270-closest-binary-search-tree-value.md) | Easy       |
 | 272  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) | [Python3](solutions/272-closest-binary-search-tree-value-ii.md) | Hard       |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)         | Medium     |
@@ -510,6 +526,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 413  | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | [Python3](solutions/413-arithmetic-slices.md)                | Medium     |
 | 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Python3](solutions/419-battleships-in-a-board.md)           | Medium     |
+| 426  | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) | [Python3](solutions/426-convert-binary-search-tree-to-sorted-doubly-linked-list.md) | Medium     |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](solutions/443-string-compression.md)               | Easy       |
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Python3](solutions/445-add-two-numbers-ii.md)               | Medium     |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [Python3](solutions/450-delete-node-in-a-bst.md)             | Medium     |

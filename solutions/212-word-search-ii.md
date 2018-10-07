@@ -4,6 +4,7 @@
 
 - [Depth-first Search](#depth-first-search)
 - [Trie](#trie)
+- [Depth-fist Search with One Less Recursion](#depth-fist-search-with-one-less-recursion)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -52,78 +53,103 @@ class Solution(object):
 # Trie
 
 ```python
-from collections import defaultdict
-
-class TrieNode:
+class TrieNode():
     def __init__(self):
-        self.children = defaultdict(TrieNode)
+        self.children = collections.defaultdict(TrieNode)
         self.isWord = False
 
-class Trie:
+class Trie():
     def __init__(self):
         self.root = TrieNode()
 
     def insert(self, word):
-        cur = self.root
-        for letter in word:
-            cur = cur.children[letter]
-        cur.isWord = True
-
-    def search(self, word):
-        cur = self.root
-        for letter in word:
-            cur = cur.children.get(letter)
-            if cur is None:
-                return False
-        return cur.isWord
-
-    def startsWith(self, prefix):
-        cur = self.root
-        for letter in prefix:
-            cur = cur.children.get(letter)
-            if cur is None:
-                return False
-        return True
+        node = self.root
+        for w in word:
+            node = node.children[w]
+        node.isWord = True
 
 class Solution:
     def findWords(self, board, words):
-        """
-        :type board: List[List[str]]
-        :type words: List[str]
-        :rtype: List[str]
-        """
-        # construct trie
         trie = Trie()
         for w in words:
             trie.insert(w)
 
-        ans = set()
         m, n = len(board), len(board[0])
+        ans = []
         seen = [[False] * n for _ in range(m)]
+        def dfs(board, node, i, j, path):
+            if node.isWord:
+                ans.append(path)
+                node.isWord = False
 
-        def dfs(i, j, prefix):            
-            if not (0 <= i < m and 0 <= j < n):
+            if i < 0 or i >= m or j < 0 or j >= n:
                 return
-            
-            if seen[i][j]: return
 
-            path = prefix + board[i][j]
+            cur = board[i][j]
+            node = node.children.get(cur)
+            if not node:
+                return
 
-            if trie.search(path):
-                ans.add(path)
-
-            if trie.startsWith(path):
+            for di, dj in [(1, 0), (0, 1), (-1, 0), (0, -1)]:
                 if not seen[i][j]:
+                    ni, nj = i + di, j + dj
                     seen[i][j] = True
-                    dfs(i+1, j, path)
-                    dfs(i-1, j, path)
-                    dfs(i, j+1, path)
-                    dfs(i, j-1, path)
+                    dfs(board, node, ni, nj, path+cur)
                     seen[i][j] = False
 
+        node = trie.root
         for i in range(m):
             for j in range(n):
-                dfs(i, j, '')
+                dfs(board, node, i, j, "")
+        return ans
+```
 
-        return list(ans)
+# Depth-fist Search with One Less Recursion
+
+```python
+class TrieNode():
+    def __init__(self):
+        self.children = collections.defaultdict(TrieNode)
+        self.isWord = False
+
+class Trie():
+    def __init__(self):
+        self.root = TrieNode()
+
+    def insert(self, word):
+        node = self.root
+        for w in word:
+            node = node.children[w]
+        node.isWord = True
+
+class Solution:
+    def findWords(self, board, words):
+        trie = Trie()
+        for w in words:
+            trie.insert(w)
+
+        m, n = len(board), len(board[0])
+        ans = []
+        seen = [[False] * n for _ in range(m)]
+        def dfs(board, node, i, j, path):            
+            cur = board[i][j]
+            node = node.children.get(cur)
+            if not node:
+                return
+            elif node.isWord:
+                ans.append(path+cur)
+                node.isWord = False
+
+            for di, dj in [(1, 0), (0, 1), (-1, 0), (0, -1)]:
+                ni, nj = i + di, j + dj
+                if 0 <= ni < m and 0 <= nj < n and not seen[ni][nj]:
+                    seen[i][j] = True
+                    dfs(board, node, ni, nj, path+cur)
+                    seen[i][j] = False
+
+        node = trie.root
+        for i in range(m):
+            for j in range(n):
+                dfs(board, node, i, j, "")
+        return ans
 ```
