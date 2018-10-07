@@ -278,6 +278,7 @@
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
+| 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 909  | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python3](solutions/909-snakes-and-ladders.md)               | Medium     |
 
 ## Tree
@@ -566,6 +567,7 @@
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Python3](solutions/669-trim-a-binary-search-tree.md)        | Easy       |
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](solutions/678-valid-parenthesis-string.md)         | Medium     |
+| 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
 
 ## 701 - 800
