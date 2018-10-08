@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Merge Sort](#merge-sort)
+- [Binary Search](#binary-search)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -17,7 +18,7 @@ class Solution:
         nums = sorted(nums)
         length = len(nums)
         return nums[length//2] if length % 2 else (nums[length//2]+nums[(length//2)-1])/2
-        ```
+```
 
 # Binary Search
 

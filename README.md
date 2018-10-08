@@ -157,6 +157,7 @@
 | 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python3](solutions/907-sum-of-subarray-minimums.md)         | Medium     |
 | 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                  | Medium     |
 | 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutions/915-partition-array-into-disjoint-intervals.md) | Medium     |
+| 798  | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Python3](solutions/798-smallest-rotation-with-highest-score.md) | Medium     |
 
 ## Stack
 
@@ -171,6 +172,8 @@
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python3](solutions/144-binary-tree-preorder-traversal.md)   | Medium     |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python3](solutions/145-binary-tree-postorder-traversal.md)  | Hard       |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Python3](solutions/173-binary-search-tree-iterator.md)      | Medium     |
+| 224  | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python3](solutions/224-basic-calculator.md)                 | Medium     |
+| 227  | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [Python3](solutions/227-basic-calculator-ii.md)              | Medium     |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Python3](solutions/232-implement-queue-using-stacks.md)     | Easy       |
 | 272  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) | [Python3](solutions/272-closest-binary-search-tree-value-ii.md) | Hard       |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md)                    | Medium     |
@@ -185,6 +188,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)              | Hard       |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](solutions/239-sliding-window-maximum.md)           | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 
@@ -235,6 +239,7 @@
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](solutions/239-sliding-window-maximum.md)           | Medium     |
 | 266  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | [Python3](solutions/266-palindrome-permutation.md)           | Easy       |
 | 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](solutions/267-palindrome-permutation-ii.md)        | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
@@ -357,6 +362,7 @@
 | 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Python3](solutions/29-divide-two-integers.md)            | Medium     |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python3](solutions/41-first-missing-positive.md)         | Hard       |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                  | Easy       |
+| 224  | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python3](solutions/224-basic-calculator.md)              | Medium     |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits/)      | [Python3](solutions/258-add-digits/,d)                    | Easy       |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Python3](solutions/273-integer-to-english-words.md)      | Medium     |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                 | Medium     |
@@ -491,12 +497,15 @@
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](solutions/215-kth-largest-element-in-an-array.md)  | Medium     |
 | 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Python3](solutions/222-count-complete-tree-nodes.md)        | Medium     |
+| 224  | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python3](solutions/224-basic-calculator.md)                 | Medium     |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](solutions/226-invert-binary-tree.md)               | Easy       |
+| 227  | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [Python3](solutions/227-basic-calculator-ii.md)              | Medium     |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Python3](solutions/232-implement-queue-using-stacks.md)     | Easy       |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Python3](solutions/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python3](solutions/237-delete-node-in-a-linked-list.md)     | Easy       |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python3](solutions/238-product-of-array-except-self.md)     | Medium     |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](solutions/239-sliding-window-maximum.md)           | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Python3](solutions/240-search-a-2d-matrix-ii.md)            | Medium     |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits/)      | [Python3](solutions/258-add-digits/,d)                       | Easy       |
 | 266  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | [Python3](solutions/266-palindrome-permutation.md)           | Easy       |
@@ -581,6 +590,7 @@
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 | 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
 | 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Python3](solutions/795-number-of-subarrays-with-bounded-maximum.md) | Medium     |
+| 798  | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Python3](solutions/798-smallest-rotation-with-highest-score.md) | Medium     |
 
 ## 801 - 900
 
