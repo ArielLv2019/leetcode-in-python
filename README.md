@@ -41,6 +41,7 @@
 
 | #    | Title                                                        | Solution                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | -------------------------------------------- | ---------- |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/78-subsets.md)           | Medium     |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python2](solutions/191-number-of-1-bits.md) | Easy       |
 
 ## Greedy
@@ -89,6 +90,9 @@
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python3](solutions/746-min-cost-climbing-stairs.md)         | Easy       |
 | 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](solutions/873-length-of-longest-fibonacci-subsequence.md) | Medium     |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game)       | [Python3](solutions/887-stone-game.md)                       | Medium     |
+| 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | [Python3](solutions/898-bitwise-ors-of-subarrays.md)         | Medium     |
+| 918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [Python3](solutions/918-maximum-sum-circular-subarray.md)    | Medium     |
+| 920  | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | [Python3](solutions/920-number-of-music-playlists.md)        | Hard       |
 
 ## Backtracking
 
@@ -150,6 +154,7 @@
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
 | 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
 | 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Python3](solutions/795-number-of-subarrays-with-bounded-maximum.md) | Medium     |
+| 798  | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Python3](solutions/798-smallest-rotation-with-highest-score.md) | Medium     |
 | 825  | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Python3](solutions/825-friends-of-appropriate-ages.md)      | Medium     |
 | 835  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Python3](solutions/835-image-overlap.md)                    | Medium     |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python3](solutions/848-shifting-letters.md)                 | Medium     |
@@ -158,7 +163,7 @@
 | 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python3](solutions/907-sum-of-subarray-minimums.md)         | Medium     |
 | 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                  | Medium     |
 | 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutions/915-partition-array-into-disjoint-intervals.md) | Medium     |
-| 798  | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Python3](solutions/798-smallest-rotation-with-highest-score.md) | Medium     |
+| 918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [Python3](solutions/918-maximum-sum-circular-subarray.md)    | Medium     |
 
 ## Stack
 
@@ -267,6 +272,8 @@
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Python3](solutions/200-number-of-islands.md)                | Medium     |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
+| 351  | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns) | [Python3](solutions/351-android-unlock-patterns.md)          | Medium     |
+| 399  | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python3](solutions/399-evaluate-division.md)                | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
@@ -287,6 +294,7 @@
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
 | 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 909  | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python3](solutions/909-snakes-and-ladders.md)               | Medium     |
+| 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
 
 ## Tree
 
@@ -334,6 +342,7 @@
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Python3](solutions/872-leaf-similar-trees.md)               | Easy       |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 | 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Python3](solutions/894-all-possible-full-binary-trees.md)   | Medium     |
+| 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
 
 ## Two Pointers
 
@@ -533,11 +542,13 @@
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Python3](solutions/338-counting-bits.md)                    | Medium     |
 | 340  | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) | [Python3](solutions/340-longest-substring-with-at-most-k-distinct-characters.md) | Hard       |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                    | Medium     |
+| 351  | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns) | [Python3](solutions/351-android-unlock-patterns.md)          | Medium     |
 | 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)            | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [Python3](solutions/384-shuffle-an-array.md)                 | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](solutions/387-first-unique-character-in-a-string.md) | Easy       |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [Python3](solutions/394-decode-string.md)                    | Medium     |
+| 399  | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python3](solutions/399-evaluate-division.md)                | Medium     |
 
 ## 401 - 500
 
@@ -617,6 +628,7 @@
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Python3](solutions/890-find-and-replace-pattern.md)         | Medium     |
 | 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Python3](solutions/894-all-possible-full-binary-trees.md)   | Medium     |
+| 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | [Python3](solutions/898-bitwise-ors-of-subarrays.md)         | Medium     |
 | 899  | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [Python3](solutions/899-orderly-queue.md)                    | Medium     |
 
 ## 901 - 1000
@@ -625,7 +637,11 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python3](solutions/907-sum-of-subarray-minimums.md)         | Medium     |
 | 909  | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python3](solutions/909-snakes-and-ladders.md)               | Medium     |
+| 910  | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [Python3](solutions/910-smallest-range-ii.md)                | Medium     |
 | 911  | [Online Election](https://leetcode.com/problems/online-election/) | [Python3](solutions/911-online-election.md)                  | Medium     |
 | 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Python3](solutions/915-partition-array-into-disjoint-intervals.md) | Medium     |
 | 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python3](solutions/916-word-subsets.md)                     | Medium     |
+| 918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [Python3](solutions/918-maximum-sum-circular-subarray.md)    | Medium     |
+| 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
+| 920  | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | [Python3](solutions/920-number-of-music-playlists.md)        | Hard       |
 

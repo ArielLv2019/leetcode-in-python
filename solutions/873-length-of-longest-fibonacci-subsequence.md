@@ -16,12 +16,12 @@ class Solution:
         dp = [[2] *  n for _ in range(n)]
 
         ans = 0
-        for i in range(n):
+        for i in range(n-1):
             for j in range(i):
-                k = index.get(A[i]- A[j], None)
-                if k and k < j:
-                    dp[j][i] = dp[k][j] + 1
-                    ans = max(ans, dp[j][i])
+                k = index.get(A[j] + A[i], None)
+                if k and k > i:
+                    dp[i][k] = dp[j][i] + 1
+                    ans = max(ans, dp[i][k])
 
         return ans if ans >= 3 else 0
 ```

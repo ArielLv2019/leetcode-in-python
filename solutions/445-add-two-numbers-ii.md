@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Cheating](#cheating)
-  - [Recursion](#recursion)
+- [Recursion](#recursion)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -37,12 +37,12 @@ class Solution:
         return dummy.next
 ```
 
-## Recursion
+# Recursion
 
 ```python
 class Solution:
     def addTwoNumbers(self, l1, l2):
-        len1, len2 = self.getLength(l1), self.getLength(l2)
+        len1, len2 = self.length(l1), self.length(l2)
         l1 = self.addLeadingZeros(len2 - len1, l1)
         l2 = self.addLeadingZeros(len1 - len2, l2)
         carry, ans = self.combineList(l1, l2)
@@ -52,7 +52,7 @@ class Solution:
             ans = l3
         return ans
 
-    def getLength(self, node):
+    def length(self, node):
         l = 0
         while node:
             l += 1

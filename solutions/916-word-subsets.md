@@ -10,8 +10,6 @@
 
 ```python
 from collections import defaultdict
-
-
 class Solution(object):
     def wordSubsets(self, A, B):
         def count(word):
