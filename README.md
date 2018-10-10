@@ -245,6 +245,7 @@
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python3](solutions/146-lru-cache.md)                        | Hard       |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python3](solutions/205-isomorphic-strings.md)               | Easy       |
 | 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](solutions/239-sliding-window-maximum.md)           | Medium     |
 | 266  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | [Python3](solutions/266-palindrome-permutation.md)           | Easy       |
 | 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](solutions/267-palindrome-permutation-ii.md)        | Medium     |
@@ -288,6 +289,7 @@
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Python3](solutions/200-number-of-islands.md)                | Medium     |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python3](solutions/297-serialize-and-deserialize-binary-tree.md) | Hard       |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](solutions/301-remove-invalid-parentheses.md)       | Hard       |
+| 339  | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) | [Python3](solutions/339-nested-list-weight-sum.md)           | Easy       |
 | 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)            | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
@@ -504,6 +506,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Python3](solutions/204-count-primes.md)                     | Easy       |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python3](solutions/205-isomorphic-strings.md)               | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](solutions/206-reverse-linked-list.md)              | Easy       |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python3](solutions/207-course-schedule.md)                  | Medium     |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
@@ -540,9 +543,11 @@
 | 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [Python3](solutions/303-range-sum-query-immutable.md)        | Easy       |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Python3](solutions/309-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium     |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Python3](solutions/338-counting-bits.md)                    | Medium     |
+| 339  | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) | [Python3](solutions/339-nested-list-weight-sum.md)           | Easy       |
 | 340  | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) | [Python3](solutions/340-longest-substring-with-at-most-k-distinct-characters.md) | Hard       |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [Python3](solutions/343-integer-break.md)                    | Medium     |
 | 351  | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns) | [Python3](solutions/351-android-unlock-patterns.md)          | Medium     |
+| 362  | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter) | [Python3](solutions/design-hit-counter.md)                   | Medium     |
 | 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python3](solutions/365-water-and-jug-problem.md)            | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [Python3](solutions/384-shuffle-an-array.md)                 | Medium     |
