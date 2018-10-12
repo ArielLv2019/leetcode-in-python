@@ -21,6 +21,7 @@
   - [Math](#math)
   - [Trie](#trie)
   - [Topological Sort](#topological-sort)
+  - [Union Find](#union-find)
 - [Sequence](#sequence)
   - [1 - 100](#1---100)
   - [101 - 200](#101---200)
@@ -404,6 +405,12 @@
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python3](solutions/207-course-schedule.md)  | Medium     |
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Python3](solutions/269-alien-dictionary.md) | Hard       |
 
+## Union Find
+
+| #    | Title                                                        | Solution                                         | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------ | ---------- |
+| 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python3](solutions/684-redundant-connection.md) | Medium     |
+
 # Sequence
 
 ## 1 - 100
@@ -605,6 +612,7 @@
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Python3](solutions/669-trim-a-binary-search-tree.md)        | Easy       |
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](solutions/678-valid-parenthesis-string.md)         | Medium     |
+| 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python3](solutions/684-redundant-connection.md)             | Medium     |
 | 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
 
