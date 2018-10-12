@@ -72,6 +72,7 @@
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     | [Python3](solutions/91-decode-ways.md)                       | Medium     |
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Python3](solutions/95-unique-binary-search-trees-ii.md)     | Medium     |
+| 96   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python3](solutions/96-unique-binary-search-trees.md)        | Medium     |
 | 115  | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Python3](solutions/115-distinct-subsequences.md)            | Medium     |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python3](solutions/121-best-time-to-buy-and-sell-stock.md)  | Easy       |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Python3](solutions/123-best-time-to-buy-and-sell-stock-iii.md) | Medium     |
@@ -306,6 +307,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python3](solutions/94-binary-tree-inorder-traversal.md)     | Medium     |
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Python3](solutions/95-unique-binary-search-trees-ii.md)     | Medium     |
+| 96   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python3](solutions/96-unique-binary-search-trees.md)        | Medium     |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python3](solutions/98-validate-binary-search-tree.md)       | Medium     |
 | 99   | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | [Python3](solutions/99-recover-binary-search-tree.md)        | Hard       |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python3](solutions/101-symmetric-tree.md)                   | Easy       |
@@ -323,6 +325,7 @@
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python3](solutions/144-binary-tree-preorder-traversal.md)   | Medium     |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python3](solutions/145-binary-tree-postorder-traversal.md)  | Hard       |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Python3](solutions/173-binary-search-tree-iterator.md)      | Medium     |
+| 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python3](solutions/199-binary-tree-right-side-view.md)      | Medium     |
 | 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Python3](solutions/222-count-complete-tree-nodes.md)        | Medium     |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](solutions/226-invert-binary-tree.md)               | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Python3](solutions/236-lowest-common-ancestor-of-a-binary-tree.md) | Medium     |
@@ -460,6 +463,7 @@
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     | [Python3](solutions/91-decode-ways.md)                       | Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python3](solutions/94-binary-tree-inorder-traversal.md)     | Medium     |
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Python3](solutions/95-unique-binary-search-trees-ii.md)     | Medium     |
+| 96   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python3](solutions/96-unique-binary-search-trees.md)        | Medium     |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python3](solutions/98-validate-binary-search-tree.md)       | Medium     |
 | 99   | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | [Python3](solutions/99-recover-binary-search-tree.md)        | Hard       |
 
