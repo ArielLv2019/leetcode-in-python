@@ -390,6 +390,7 @@
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python3](solutions/208-implement-trie-prefix-tree.md)       | Medium     |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [Python3](solutions/212-word-search-ii.md)                   | Hard       |
 | 642  | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) | [Python3](solutions/642-design-search-autocomplete-system.md) | Hard       |
+| 745  | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [Python3](solutions/745-prefix-and-suffix-search.md)         | Hard       |
 
 ## Topological Sort
 
@@ -607,6 +608,7 @@
 | 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [Python3](solutions/712-minimum-ascii-delete-sum-for-two-strings.md) | Medium     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Python3](solutions/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) | Medium     |
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Python3](solutions/722-remove-comments.md)                  | Medium     |
+| 745  | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [Python3](solutions/745-prefix-and-suffix-search.md)         | Hard       |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python3](solutions/746-min-cost-climbing-stairs.md)         | Easy       |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
 | 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |

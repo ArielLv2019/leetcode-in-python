@@ -16,7 +16,7 @@ class Solution:
     def closestKValues(self, root, target, k):
         next = []
         pre = []
-        res = []
+        ans = []
 
         curr = root
         while curr:
@@ -39,12 +39,12 @@ class Solution:
                 next.append(r)
                 r = r.left
 
-        while len(res) < k:
+        while len(ans) < k:
             if len(next) == 0 or (pre and abs(pre[-1].val - target) < abs(next[-1].val - target)):
-                res.append(pre[-1].val)
+                ans.append(pre[-1].val)
                 nextLower(pre)
             else:
-                res.append(next[-1].val)
+                ans.append(next[-1].val)
                 nextUpper(next)
-        return res
+        return ans
 ```
