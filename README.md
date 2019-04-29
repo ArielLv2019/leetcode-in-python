@@ -1,7 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
 - [Topic](#topic)
   - [Bit Manipulation](#bit-manipulation)
   - [Greedy](#greedy)
@@ -33,6 +29,7 @@
   - [701 - 800](#701---800)
   - [801 - 900](#801---900)
   - [901 - 1000](#901---1000)
+  - [1001 - 1100](#1001---1100)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -301,6 +298,7 @@
 | 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 909  | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python3](solutions/909-snakes-and-ladders.md)               | Medium     |
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | [Python3](solutions/1030-matrix-cells-in-distance-order.md)  | Easy       |
 
 ## Tree
 
@@ -666,4 +664,10 @@
 | 918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [Python3](solutions/918-maximum-sum-circular-subarray.md)    | Medium     |
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
 | 920  | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | [Python3](solutions/920-number-of-music-playlists.md)        | Hard       |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | [Python3](solutions/1030-matrix-cells-in-distance-order.md)  | Easy       |
 
+## 1001 - 1100
+
+| #    | Title                                                        | Solutoin                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | [Python3](solutions/1030-matrix-cells-in-distance-order.md)  | Easy       |
