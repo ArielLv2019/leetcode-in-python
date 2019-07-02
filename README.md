@@ -1,24 +1,24 @@
-- [Topic](#topic)
-  - [Bit Manipulation](#bit-manipulation)
-  - [Greedy](#greedy)
-  - [Dynamic Programming](#dynamic-programming)
-  - [Backtracking](#backtracking)
-  - [String](#string)
-  - [Array](#array)
-  - [Stack](#stack)
-  - [Heap](#heap)
-  - [Linked List](#linked-list)
-  - [Binary Search](#binary-search)
-  - [Hash Table](#hash-table)
-  - [Depth-first Search](#depth-first-search)
-  - [Breadth-first Search](#breadth-first-search)
-  - [Tree](#tree)
-  - [Two Pointers](#two-pointers)
-  - [Math](#math)
-  - [Trie](#trie)
-  - [Topological Sort](#topological-sort)
-  - [Union Find](#union-find)
-- [Sequence](#sequence)
+- [Topic](#Topic)
+  - [Bit Manipulation](#Bit-Manipulation)
+  - [Greedy](#Greedy)
+  - [Dynamic Programming](#Dynamic-Programming)
+  - [Backtracking](#Backtracking)
+  - [String](#String)
+  - [Array](#Array)
+  - [Stack](#Stack)
+  - [Heap](#Heap)
+  - [Linked List](#Linked-List)
+  - [Binary Search](#Binary-Search)
+  - [Hash Table](#Hash-Table)
+  - [Depth-first Search](#Depth-first-Search)
+  - [Breadth-first Search](#Breadth-first-Search)
+  - [Tree](#Tree)
+  - [Two Pointers](#Two-Pointers)
+  - [Math](#Math)
+  - [Trie](#Trie)
+  - [Topological Sort](#Topological-Sort)
+  - [Union Find](#Union-Find)
+- [Sequence](#Sequence)
   - [1 - 100](#1---100)
   - [101 - 200](#101---200)
   - [201 - 300](#201---300)
@@ -295,6 +295,7 @@
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python3](solutions/513-find-bottom-left-tree-value.md)      | Medium     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python2](solutions/559-maximum-depth-of-n-ary-tree.md)      | Easy       |
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [Python3](solutions/662-maximum-width-of-binary-tree.md)     | Medium     |
+| 690  | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [Python3](solutions/690-employee-importance.md)              | Easy       |
 | 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 909  | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python3](solutions/909-snakes-and-ladders.md)               | Medium     |
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
@@ -611,6 +612,7 @@
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Python3](solutions/669-trim-a-binary-search-tree.md)        | Easy       |
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](solutions/678-valid-parenthesis-string.md)         | Medium     |
 | 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python3](solutions/684-redundant-connection.md)             | Medium     |
+| 690  | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [Python3](solutions/690-employee-importance.md)              | Easy       |
 | 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
 
