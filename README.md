@@ -299,6 +299,7 @@
 | 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 909  | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python3](solutions/909-snakes-and-ladders.md)               | Medium     |
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
+| 993  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python3](solutions/993-cousins-in-binary-tree.md)           | Easy       |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | [Python3](solutions/1030-matrix-cells-in-distance-order.md)  | Easy       |
 
 ## Tree
@@ -350,6 +351,7 @@
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Python3](solutions/889-construct-binary-tree-from-preorder-and-postorder-traversal.md) | Medium     |
 | 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Python3](solutions/894-all-possible-full-binary-trees.md)   | Medium     |
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [Python3](solutions/919-complete-binary-tree-inserter.md)    | Medium     |
+| 993  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python3](solutions/993-cousins-in-binary-tree.md)           | Easy       |
 
 ## Two Pointers
 
@@ -612,7 +614,6 @@
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Python3](solutions/669-trim-a-binary-search-tree.md)        | Easy       |
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](solutions/678-valid-parenthesis-string.md)         | Medium     |
 | 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python3](solutions/684-redundant-connection.md)             | Medium     |
-| 690  | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [Python3](solutions/690-employee-importance.md)              | Easy       |
 | 694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) | [Python3](solutions/694-number-of-distinct-islands.md)       | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Python3](solutions/700-search-in-a-binary-search-tree.md)   | Easy       |
 
