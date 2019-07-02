@@ -196,6 +196,7 @@
 | 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](solutions/239-sliding-window-maximum.md)           | Medium     |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Python3](solutions/378-kth-smallest-element-in-a-sorted-matrix.md) | Medium     |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python3](solutions/767-reorganize-string.md)                | Medium     |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/)    | [Python3](solutions/1094-car-pooling.md)                    | Medium     |
 
 ## Linked List
 
@@ -673,4 +674,5 @@
 
 | #    | Title                                                        | Solutoin                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/)    | [Python3](solutions/1094-car-pooling.md)                    | Medium     |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | [Python3](solutions/1030-matrix-cells-in-distance-order.md)  | Easy       |
