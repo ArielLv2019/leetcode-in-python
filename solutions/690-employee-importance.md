@@ -1,8 +1,8 @@
-# Breadth-first Searc- [Breadth-first Search](#Breadth-first-Search)
+- [Breadth-first Search](#Breadth-first-Search)
 
-- [Employee info](#Employee-info)h
+# Breadth-first Search
 
-"""python
+```python
 # Employee info
 class Employee:
     def __init__(self, id, importance, subordinates):
@@ -36,3 +36,4 @@ class Solution:
                 queue.append(sub.id)
             
         return ans
+```
