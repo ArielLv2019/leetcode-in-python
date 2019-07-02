@@ -3,6 +3,7 @@
 # Breadth-first Search
 
 ```python
+"""
 # Employee info
 class Employee:
     def __init__(self, id, importance, subordinates):
