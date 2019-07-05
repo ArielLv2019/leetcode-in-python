@@ -1,10 +1,4 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
 - [Stack](#stack)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Stack
 
@@ -42,4 +36,28 @@ class Solution:
             return False
 
         return True
+```
+
+Using dictionary makes it simplier.
+
+```python
+class Solution:
+    def isValid(self, s: str) -> bool:
+        pairs = {
+            '}': '{',
+            ')': '(',
+            ']': '[',
+        }
+
+        stk = []
+        for char in s:
+            if char in pairs.values():
+                stk.append(char)
+            elif char in pairs.keys():
+                if not stk or stk[-1] != pairs[char]:
+                    return False
+                else:
+                    stk.pop()
+
+        return True if not stk else False
 ```
