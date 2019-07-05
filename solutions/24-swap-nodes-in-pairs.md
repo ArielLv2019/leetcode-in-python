@@ -1,10 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+- [Split](#Split)
 
-- [Split](#split)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Split 
 
@@ -31,7 +26,7 @@ class Solution:
 
             cur, flag = cur.next, not flag
 
-        oddTail.next = evenTail.next = None
+        oddTail.next = evenTail.next = None # This is very important!
         oddItr, evenItr = odd.next, even.next
         dummy = ListNode(0)
         tail = dummy
