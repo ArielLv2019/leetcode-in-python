@@ -1,11 +1,6 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
 - [Dynamic Programing with Two-pass](#dynamic-programing-with-two-pass)
 - [Dynamic Programming with One-pass](#dynamic-programming-with-one-pass)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Dynamic Programing with Two-pass
 

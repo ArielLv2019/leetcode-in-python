@@ -1,11 +1,6 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
 - [Dynamic Programming with O(n)](#dynamic-programming-with-on)
 - [Dynamic Programming with O(1)](#dynamic-programming-with-o1)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Dynamic Programming with O(n)
 
