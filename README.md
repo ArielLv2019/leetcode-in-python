@@ -210,6 +210,7 @@
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python2](solutions/23-merge-k-sorted-lists.md)              | Hard       |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Python3](solutions/24-swap-nodes-in-pairs.md)               | Medium     |
 | 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python3](solutions/25-reverse-nodes-in-k-group.md)          | Medium     |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/)    | [Python3](solutions/61-rotate-list.md)                       | Medium     |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)                | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)             | Medium     |
@@ -366,6 +367,7 @@
 | 15   | [3Sum](https://leetcode.com/problems/3sum)                   | [Python3](solutions/15-3sum.md)                              | Medium     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python3](solutions/26-remove-duplicates-from-sorted-array.md) | Easy       |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python3](solutions/28-implement-strstr.md)                  | Easy       |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/)    | [Python3](solutions/61-rotate-list.md)                       | Medium     |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python3](solutions/75-sort-colors.md)                       | Medium     |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](solutions/125-valid-palindrome.md)                 | Easy       |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)                | Easy       |
@@ -461,6 +463,7 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Python3](solutions/55-jump-game.md)                         | Medium     |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Python3](solutions/56-merge-intervals.md)                   | Medium     |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/)    | [Python3](solutions/61-rotate-list.md)                       | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutions/64-minimum-path-sum.md)                  | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Python3](solutions/70-climbing-stairs.md)                   | Easy       |
 | 71   | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](solutions/71-simplify-path.md)                     | Medium     |
