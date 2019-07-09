@@ -103,6 +103,7 @@
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python3](solutions/46-permutations.md)                      | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/-subsets.md)                             | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
+| 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/)      | [Python3](solutions/90-subsets-ii.md)                        | Medium     |
 | 267  | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | [Python3](solutions/267-palindrome-permutation-ii.md)        | Medium     |
 | 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [Python3](solutions/805-split-array-with-same-average.md)    | Hard       |
 
@@ -149,6 +150,8 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python3](solutions/54-spiral-matrix.md)                     | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](solutions/64-minimum-path-sum.md)                  | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python3](solutions/73-set-matrix-zeroes.md)                 | Medium     |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/78-subsets.md)                           | Medium     |
+| 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/)      | [Python3](solutions/90-subsets-ii.md)                        | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Python3](solutions/189-rotate-array.md)                     | Easy       |
 | 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Python3](solutions/792-number-of-matching-subsequences.md)  | Medium     |
 | 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Python3](solutions/795-number-of-subarrays-with-bounded-maximum.md) | Medium     |
@@ -468,6 +471,7 @@
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python3](solutions/84-largest-rectangle-in-histogram.md)    | Hard       |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](solutions/88-merge-sorted-array.md)                | Easy       |
+| 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/)      | [Python3](solutions/90-subsets-ii.md)                        | Medium     |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     | [Python3](solutions/91-decode-ways.md)                       | Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python3](solutions/94-binary-tree-inorder-traversal.md)     | Medium     |
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Python3](solutions/95-unique-binary-search-trees-ii.md)     | Medium     |
