@@ -211,6 +211,8 @@
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Python3](solutions/24-swap-nodes-in-pairs.md)               | Medium     |
 | 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python3](solutions/25-reverse-nodes-in-k-group.md)          | Medium     |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/)    | [Python3](solutions/61-rotate-list.md)                       | Medium     |
+| 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](solutions/82-remove-duplicates-from-sorted-list-ii.md) | Medium     |
+| 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](solutions/83-remove-duplicates-from-sorted-list.md) | Easy       |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Python2](solutions/138-copy-list-with-random-pointer.md)    | Medium     |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python3](solutions/141-linked-list-cycle.md)                | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python3](solutions/142-linked-list-cycle-ii.md)             | Medium     |
@@ -472,6 +474,8 @@
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python3](solutions/75-sort-colors.md)                       | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/78-subsets.md)                           | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
+| 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](solutions/82-remove-duplicates-from-sorted-list-ii.md) | Medium     |
+| 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](solutions/83-remove-duplicates-from-sorted-list.md) | Easy       |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python3](solutions/84-largest-rectangle-in-histogram.md)    | Hard       |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](solutions/88-merge-sorted-array.md)                | Easy       |
 | 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/)      | [Python3](solutions/90-subsets-ii.md)                        | Medium     |
