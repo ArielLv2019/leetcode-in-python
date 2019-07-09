@@ -1,15 +1,11 @@
-- [Backtracking](#backtracking)
+- [Backtracking](#Backtracking)
 
 
 # Backtracking
 
 ```python
 class Solution:
-    def permute(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+    def permute(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
         ans = []
         def bt(start):

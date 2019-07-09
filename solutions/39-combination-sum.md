@@ -1,0 +1,24 @@
+- [Backtracking](#Backtracking)
+
+
+# Backtracking
+
+```python
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        ans = []
+        
+        def bt(start, remaining, prefix):
+            if remaining == 0:
+                ans.append(prefix)
+                return
+            elif remaining < 0:
+                return
+                
+            for idx in range(start, len(candidates)):
+                bt(idx, remaining - candidates[idx], prefix + [candidates[idx]])
+                
+            
+        bt(0, target, [])
+        return ans
+```

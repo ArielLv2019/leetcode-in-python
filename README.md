@@ -100,6 +100,7 @@
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python3](solutions/17-letter-combinations-of-a-phone-number.md) | Medium     |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python3](solutions/22-generate-parentheses.md)              | Medium     |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python3](solutions/37-sudoku-solver.md)                     | Hard       |
+| 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](solutions/39-combination-sum.md)                   | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python3](solutions/46-permutations.md)                      | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python3](solutions/-subsets.md)                             | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python3](solutions/79-word-search.md)                       | Medium     |
@@ -456,6 +457,7 @@
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python3](solutions/36-valid-sudoku.md)                      | Medium     |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python3](solutions/37-sudoku-solver.md)                     | Hard       |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python3](solutions/38-count-and-say.md)                     | Easy       |
+| 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](solutions/39-combination-sum.md)                   | Medium     |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python3](solutions/41-first-missing-positive.md)            | Hard       |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python3](solutions/44-wildcard-matching.md)                 | Hard       |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [Python3](solutions/45-jump-game-ii.md)                      | Hard       |
