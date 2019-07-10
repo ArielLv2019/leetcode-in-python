@@ -27,7 +27,7 @@ class Solution:
 Time Complexity: O(nlogn)
 Space Complexity: O(n)
 
-```
+```python
 class Solution:
     def twoSum(self, nums, target):
         """
@@ -35,11 +35,9 @@ class Solution:
         :type target: int
         :rtype: List[int]
         """
-        tuples = []
-        for idx, item in enumerate(nums):
-            tuples.append((item, idx))
-
+        tuples = [(item, idx) for idx, item in enumerate(nums)]
         sortNum = sorted(tuples, key=lambda x:x[0])
+
         start, end = 0, len(nums) - 1
         while start <= end:
             if sortNum[start][0] + sortNum[end][0] > target:
@@ -65,9 +63,7 @@ class Solution:
         :type target: int
         :rtype: List[int]
         """
-        mem = {}
-        for i, n in enumerate(nums):
-            mem[n] = i
+        mem = {n: i for i, n in enumerate(nums)}
 
         for i, n in enumerate(nums):
             if (target - n) in mem and mem[target-n] != i:
