@@ -1,7 +1,5 @@
 - [One-pass Traversal](#one-pass-traversal)
 
-
-
 # One-pass Traversal
 
 ```python

@@ -1,7 +1,5 @@
 - [Math](#math)
 
-
-
 # Math
 
 ```python
