@@ -1,7 +1,6 @@
 - [Binary Search](#binary-search)
 
 
-
 # Binary Search
 
 Time Complexity: O(m+n)
